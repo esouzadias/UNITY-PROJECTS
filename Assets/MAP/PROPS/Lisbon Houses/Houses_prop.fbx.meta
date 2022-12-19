@@ -1,0 +1,2948 @@
+fileFormatVersion: 2
+guid: 19840f85f6fc141ad98c73831114c103
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -6383478757002547357
+    second: Camera_REQUIRED_BACK|Board_flowershop|Take 001|BaseLayer
+  - first:
+      74: -3326334895242559982
+    second: Camera_REQUIRED_BACK|Board_resto|Take 001|BaseLayer
+  - first:
+      74: 9064004739625787836
+    second: Camera_REQUIRED_BACK|Camera_REQUIRED_BACK.Target|Take 001|BaseLayer
+  - first:
+      74: -6940677653831630385
+    second: Camera_REQUIRED_BACK|Camera_REQUIRED_BACK|Take 001|BaseLayer
+  - first:
+      74: -3782283097565141137
+    second: Camera_REQUIRED_BACK|Camera_REQUIRED_FRONT.Target|Take 001|BaseLayer
+  - first:
+      74: 1171574411453315632
+    second: Camera_REQUIRED_BACK|Camera_REQUIRED_FRONT|Take 001|BaseLayer
+  - first:
+      74: -5847218516324797099
+    second: Camera_REQUIRED_BACK|Chair/table003|Take 001|BaseLayer
+  - first:
+      74: -1344390468511916445
+    second: Camera_REQUIRED_BACK|Chair/table004|Take 001|BaseLayer
+  - first:
+      74: -6872559712095653516
+    second: Camera_REQUIRED_BACK|Chair/table005|Take 001|BaseLayer
+  - first:
+      74: -6308072282406774975
+    second: Camera_REQUIRED_BACK|Chair/table006|Take 001|BaseLayer
+  - first:
+      74: 1960210694818726704
+    second: Camera_REQUIRED_BACK|Chair/table007|Take 001|BaseLayer
+  - first:
+      74: -4132813612724280351
+    second: Camera_REQUIRED_BACK|Chair/table008|Take 001|BaseLayer
+  - first:
+      74: 7522445558234591504
+    second: Camera_REQUIRED_BACK|Chair/table|Take 001|BaseLayer
+  - first:
+      74: 1820555337355075039
+    second: Camera_REQUIRED_BACK|chair001|Take 001|BaseLayer
+  - first:
+      74: 2891810718428111528
+    second: Camera_REQUIRED_BACK|chair003|Take 001|BaseLayer
+  - first:
+      74: -6357513248535870896
+    second: Camera_REQUIRED_BACK|chair004|Take 001|BaseLayer
+  - first:
+      74: 4153238086455810918
+    second: Camera_REQUIRED_BACK|chair005|Take 001|BaseLayer
+  - first:
+      74: 4413540403806114793
+    second: Camera_REQUIRED_BACK|chair007|Take 001|BaseLayer
+  - first:
+      74: -6873454767265404615
+    second: Camera_REQUIRED_BACK|chair008|Take 001|BaseLayer
+  - first:
+      74: -5747957400320903080
+    second: Camera_REQUIRED_BACK|chair009|Take 001|BaseLayer
+  - first:
+      74: 6484569631391882479
+    second: Camera_REQUIRED_BACK|chair010|Take 001|BaseLayer
+  - first:
+      74: 4034973756719959795
+    second: Camera_REQUIRED_BACK|chair011|Take 001|BaseLayer
+  - first:
+      74: 1769111011218164022
+    second: Camera_REQUIRED_BACK|chair012|Take 001|BaseLayer
+  - first:
+      74: 3576964511023988872
+    second: Camera_REQUIRED_BACK|chair013|Take 001|BaseLayer
+  - first:
+      74: -6663430614647393183
+    second: Camera_REQUIRED_BACK|chair014|Take 001|BaseLayer
+  - first:
+      74: 4467815811090198618
+    second: Camera_REQUIRED_BACK|chair015|Take 001|BaseLayer
+  - first:
+      74: 5849219307832908592
+    second: Camera_REQUIRED_BACK|chair2|Take 001|BaseLayer
+  - first:
+      74: 1356325420415294919
+    second: Camera_REQUIRED_BACK|chimney003|Take 001|BaseLayer
+  - first:
+      74: 5891111464811254195
+    second: Camera_REQUIRED_BACK|chimney2|Take 001|BaseLayer
+  - first:
+      74: 3587951298108193729
+    second: Camera_REQUIRED_BACK|Dumpster|Take 001|BaseLayer
+  - first:
+      74: 8327302258844400146
+    second: Camera_REQUIRED_BACK|FWindow008|Take 001|BaseLayer
+  - first:
+      74: -4546148617719410925
+    second: Camera_REQUIRED_BACK|FWindow008|Take 001|BaseLayer.001
+  - first:
+      74: -3637363880544462292
+    second: Camera_REQUIRED_BACK|FWindow009|Take 001|BaseLayer
+  - first:
+      74: 1987564821743357483
+    second: Camera_REQUIRED_BACK|FWindow1|Take 001|BaseLayer
+  - first:
+      74: 734625374076052162
+    second: Camera_REQUIRED_BACK|FWindow3|Take 001|BaseLayer
+  - first:
+      74: 7305119784437652292
+    second: Camera_REQUIRED_BACK|FWindow3|Take 001|BaseLayer.001
+  - first:
+      74: 987554711204249788
+    second: Camera_REQUIRED_BACK|Gieter001|Take 001|BaseLayer
+  - first:
+      74: -7363924159927976502
+    second: Camera_REQUIRED_BACK|Gieter|Take 001|BaseLayer
+  - first:
+      74: 6008379345486852835
+    second: Camera_REQUIRED_BACK|Ground|Take 001|BaseLayer
+  - first:
+      74: 1317149339897266141
+    second: Camera_REQUIRED_BACK|House|Take 001|BaseLayer
+  - first:
+      74: 8337555246069272458
+    second: Camera_REQUIRED_BACK|L_sky_001.Target|Take 001|BaseLayer
+  - first:
+      74: -6944671370751613347
+    second: Camera_REQUIRED_BACK|L_sky_001|Take 001|BaseLayer
+  - first:
+      74: 7424500521932815455
+    second: Camera_REQUIRED_BACK|L_sky_002.Target|Take 001|BaseLayer
+  - first:
+      74: -8843377271831100883
+    second: Camera_REQUIRED_BACK|L_sky_002|Take 001|BaseLayer
+  - first:
+      74: 8984264648291011832
+    second: Camera_REQUIRED_BACK|L_sky_003.Target|Take 001|BaseLayer
+  - first:
+      74: -5430719702275505616
+    second: Camera_REQUIRED_BACK|L_sky_003|Take 001|BaseLayer
+  - first:
+      74: -6302669662489967917
+    second: Camera_REQUIRED_BACK|L_sky_004.Target|Take 001|BaseLayer
+  - first:
+      74: -2045036761325450609
+    second: Camera_REQUIRED_BACK|L_sky_004|Take 001|BaseLayer
+  - first:
+      74: 5526537531500627546
+    second: Camera_REQUIRED_BACK|L_sky_005.Target|Take 001|BaseLayer
+  - first:
+      74: 541799163979231427
+    second: Camera_REQUIRED_BACK|L_sky_005|Take 001|BaseLayer
+  - first:
+      74: 1320167115791081886
+    second: Camera_REQUIRED_BACK|L_sky_006.Target|Take 001|BaseLayer
+  - first:
+      74: 1812310351367757918
+    second: Camera_REQUIRED_BACK|L_sky_006|Take 001|BaseLayer
+  - first:
+      74: 5672344247798486586
+    second: Camera_REQUIRED_BACK|L_sky_007.Target|Take 001|BaseLayer
+  - first:
+      74: -8941109959929563145
+    second: Camera_REQUIRED_BACK|L_sky_007|Take 001|BaseLayer
+  - first:
+      74: -8559618469503917149
+    second: Camera_REQUIRED_BACK|L_sky_008.Target|Take 001|BaseLayer
+  - first:
+      74: -1761423616265777905
+    second: Camera_REQUIRED_BACK|L_sky_008|Take 001|BaseLayer
+  - first:
+      74: 3851462390135542482
+    second: Camera_REQUIRED_BACK|L_sky_009.Target|Take 001|BaseLayer
+  - first:
+      74: -797451719378692591
+    second: Camera_REQUIRED_BACK|L_sky_009|Take 001|BaseLayer
+  - first:
+      74: -2259484276378562866
+    second: Camera_REQUIRED_BACK|L_sky_010.Target|Take 001|BaseLayer
+  - first:
+      74: 2887140603903513973
+    second: Camera_REQUIRED_BACK|L_sky_010|Take 001|BaseLayer
+  - first:
+      74: -857087681525856031
+    second: Camera_REQUIRED_BACK|L_sky_011.Target|Take 001|BaseLayer
+  - first:
+      74: -4448987844182120037
+    second: Camera_REQUIRED_BACK|L_sky_011|Take 001|BaseLayer
+  - first:
+      74: -3449640509875757308
+    second: Camera_REQUIRED_BACK|L_sky_012.Target|Take 001|BaseLayer
+  - first:
+      74: -6004909679342593152
+    second: Camera_REQUIRED_BACK|L_sky_012|Take 001|BaseLayer
+  - first:
+      74: 9031867345927485741
+    second: Camera_REQUIRED_BACK|L_sky_013.Target|Take 001|BaseLayer
+  - first:
+      74: 7656795510968447778
+    second: Camera_REQUIRED_BACK|L_sky_013|Take 001|BaseLayer
+  - first:
+      74: 288082331918519151
+    second: Camera_REQUIRED_BACK|L_sky_014.Target|Take 001|BaseLayer
+  - first:
+      74: 4677216324796197130
+    second: Camera_REQUIRED_BACK|L_sky_014|Take 001|BaseLayer
+  - first:
+      74: 1153166457483391337
+    second: Camera_REQUIRED_BACK|L_sky_015.Target|Take 001|BaseLayer
+  - first:
+      74: 7544138902074140884
+    second: Camera_REQUIRED_BACK|L_sky_015|Take 001|BaseLayer
+  - first:
+      74: -3493246856989904904
+    second: Camera_REQUIRED_BACK|L_sky_016.Target|Take 001|BaseLayer
+  - first:
+      74: -6829987499382490833
+    second: Camera_REQUIRED_BACK|L_sky_016|Take 001|BaseLayer
+  - first:
+      74: 7888269773890395029
+    second: Camera_REQUIRED_BACK|L_sky_017.Target|Take 001|BaseLayer
+  - first:
+      74: 7452844793462071123
+    second: Camera_REQUIRED_BACK|L_sky_017|Take 001|BaseLayer
+  - first:
+      74: -4879062320817615731
+    second: Camera_REQUIRED_BACK|L_sky_018.Target|Take 001|BaseLayer
+  - first:
+      74: 56684655641239388
+    second: Camera_REQUIRED_BACK|L_sky_018|Take 001|BaseLayer
+  - first:
+      74: 8754214671512470868
+    second: Camera_REQUIRED_BACK|L_sky_019.Target|Take 001|BaseLayer
+  - first:
+      74: 1423278893068453317
+    second: Camera_REQUIRED_BACK|L_sky_019|Take 001|BaseLayer
+  - first:
+      74: -6861644841468317135
+    second: Camera_REQUIRED_BACK|L_sky_020.Target|Take 001|BaseLayer
+  - first:
+      74: 6370540546495403142
+    second: Camera_REQUIRED_BACK|L_sky_020|Take 001|BaseLayer
+  - first:
+      74: -1191537414443284338
+    second: Camera_REQUIRED_BACK|L_sky_021.Target|Take 001|BaseLayer
+  - first:
+      74: 8401039167915705771
+    second: Camera_REQUIRED_BACK|L_sky_021|Take 001|BaseLayer
+  - first:
+      74: 4836788011718187017
+    second: Camera_REQUIRED_BACK|L_sky_022.Target|Take 001|BaseLayer
+  - first:
+      74: 5696631579457943634
+    second: Camera_REQUIRED_BACK|L_sky_022|Take 001|BaseLayer
+  - first:
+      74: -8067546676622864279
+    second: Camera_REQUIRED_BACK|L_sky_023.Target|Take 001|BaseLayer
+  - first:
+      74: 6147759527496136520
+    second: Camera_REQUIRED_BACK|L_sky_023|Take 001|BaseLayer
+  - first:
+      74: 3605683484926319491
+    second: Camera_REQUIRED_BACK|L_sky_024.Target|Take 001|BaseLayer
+  - first:
+      74: -209648529750004986
+    second: Camera_REQUIRED_BACK|L_sky_024|Take 001|BaseLayer
+  - first:
+      74: -1925210619208464858
+    second: Camera_REQUIRED_BACK|L_SUN.Target|Take 001|BaseLayer
+  - first:
+      74: -8070765848953807014
+    second: Camera_REQUIRED_BACK|L_SUN|Take 001|BaseLayer
+  - first:
+      74: -4310768467375976695
+    second: Camera_REQUIRED_BACK|Object003|Take 001|BaseLayer
+  - first:
+      74: 7820793845758227080
+    second: Camera_REQUIRED_BACK|Object004|Take 001|BaseLayer
+  - first:
+      74: -2984796466305568289
+    second: Camera_REQUIRED_BACK|Object005|Take 001|BaseLayer
+  - first:
+      74: 7024030572285450819
+    second: Camera_REQUIRED_BACK|Object006|Take 001|BaseLayer
+  - first:
+      74: 8599450908409456341
+    second: Camera_REQUIRED_BACK|Object007|Take 001|BaseLayer
+  - first:
+      74: 5831166640428174243
+    second: Camera_REQUIRED_BACK|Object008|Take 001|BaseLayer
+  - first:
+      74: 3758757249539328282
+    second: Camera_REQUIRED_BACK|Object009|Take 001|BaseLayer
+  - first:
+      74: 7631612924815189945
+    second: Camera_REQUIRED_BACK|Object010|Take 001|BaseLayer
+  - first:
+      74: 7022389108650017175
+    second: Camera_REQUIRED_BACK|Object011|Take 001|BaseLayer
+  - first:
+      74: 2878880587270847776
+    second: Camera_REQUIRED_BACK|Object012|Take 001|BaseLayer
+  - first:
+      74: -8177814036966611264
+    second: Camera_REQUIRED_BACK|Object013|Take 001|BaseLayer
+  - first:
+      74: 6601391990149220722
+    second: Camera_REQUIRED_BACK|Object015|Take 001|BaseLayer
+  - first:
+      74: -6151060811683015540
+    second: Camera_REQUIRED_BACK|Object016|Take 001|BaseLayer
+  - first:
+      74: 1036253239748778676
+    second: Camera_REQUIRED_BACK|Object017|Take 001|BaseLayer
+  - first:
+      74: 1947722734853345929
+    second: Camera_REQUIRED_BACK|Object018|Take 001|BaseLayer
+  - first:
+      74: -8416204923878575504
+    second: Camera_REQUIRED_BACK|Palet001|Take 001|BaseLayer
+  - first:
+      74: -3380224371339564046
+    second: Camera_REQUIRED_BACK|Palet|Take 001|BaseLayer
+  - first:
+      74: -1400926582643926201
+    second: Camera_REQUIRED_BACK|Parasol001|Take 001|BaseLayer
+  - first:
+      74: -85265413761755887
+    second: Camera_REQUIRED_BACK|Parasol002|Take 001|BaseLayer
+  - first:
+      74: -4344037843206726973
+    second: Camera_REQUIRED_BACK|Parasol003|Take 001|BaseLayer
+  - first:
+      74: 6723619092357739387
+    second: Camera_REQUIRED_BACK|Parasol|Take 001|BaseLayer
+  - first:
+      74: 155979395812101600
+    second: Camera_REQUIRED_BACK|Plane008|Take 001|BaseLayer
+  - first:
+      74: -7367480848353885425
+    second: Camera_REQUIRED_BACK|Plane008|Take 001|BaseLayer.001
+  - first:
+      74: -3619212509054483760
+    second: Camera_REQUIRED_BACK|plants001|Take 001|BaseLayer
+  - first:
+      74: 5839379064048771616
+    second: Camera_REQUIRED_BACK|plants002|Take 001|BaseLayer
+  - first:
+      74: -2387428813806062897
+    second: Camera_REQUIRED_BACK|plants007|Take 001|BaseLayer
+  - first:
+      74: -5329286764993743723
+    second: Camera_REQUIRED_BACK|plants010|Take 001|BaseLayer
+  - first:
+      74: -8769354638437217003
+    second: Camera_REQUIRED_BACK|plants011|Take 001|BaseLayer
+  - first:
+      74: -6535561509214763509
+    second: Camera_REQUIRED_BACK|plants012|Take 001|BaseLayer
+  - first:
+      74: -6338901992578494502
+    second: Camera_REQUIRED_BACK|plants013|Take 001|BaseLayer
+  - first:
+      74: 214437972513100453
+    second: Camera_REQUIRED_BACK|plants014|Take 001|BaseLayer
+  - first:
+      74: 4370047783301485025
+    second: Camera_REQUIRED_BACK|plants015|Take 001|BaseLayer
+  - first:
+      74: -78034064152115242
+    second: Camera_REQUIRED_BACK|plants016|Take 001|BaseLayer
+  - first:
+      74: -1559750247209240505
+    second: Camera_REQUIRED_BACK|plants017|Take 001|BaseLayer
+  - first:
+      74: -7271688830688813708
+    second: Camera_REQUIRED_BACK|plants|Take 001|BaseLayer
+  - first:
+      74: 41841529090805877
+    second: Camera_REQUIRED_BACK|R_SUN|Take 001|BaseLayer
+  - first:
+      74: 3625855188590230851
+    second: Camera_REQUIRED_BACK|Restaurant|Take 001|BaseLayer
+  - first:
+      74: -7333289521302887130
+    second: Camera_REQUIRED_BACK|RWindow008|Take 001|BaseLayer
+  - first:
+      74: 6348128254944947400
+    second: Camera_REQUIRED_BACK|RWindow009|Take 001|BaseLayer
+  - first:
+      74: -5209847906505284383
+    second: Camera_REQUIRED_BACK|RWindow010|Take 001|BaseLayer
+  - first:
+      74: -6792739721406782624
+    second: Camera_REQUIRED_BACK|RWindow011|Take 001|BaseLayer
+  - first:
+      74: -5692781075060416439
+    second: Camera_REQUIRED_BACK|RWindow012|Take 001|BaseLayer
+  - first:
+      74: 6949724858179775093
+    second: Camera_REQUIRED_BACK|RWindow013|Take 001|BaseLayer
+  - first:
+      74: 1559044842506170167
+    second: Camera_REQUIRED_BACK|RWindow014|Take 001|BaseLayer
+  - first:
+      74: -1169159148968547242
+    second: Camera_REQUIRED_BACK|RWindow1|Take 001|BaseLayer
+  - first:
+      74: -6348980171240256016
+    second: Camera_REQUIRED_BACK|RWindow3|Take 001|BaseLayer
+  - first:
+      74: 687740613593610880
+    second: Camera_REQUIRED_BACK|RWindow4|Take 001|BaseLayer
+  - first:
+      74: 5543243104654307526
+    second: Camera_REQUIRED_BACK|RWindow6|Take 001|BaseLayer
+  - first:
+      74: 1462356255538640387
+    second: Camera_REQUIRED_BACK|Souvenirstore|Take 001|BaseLayer
+  - first:
+      74: 8072800042769511318
+    second: Camera_REQUIRED_BACK|SWindow007|Take 001|BaseLayer
+  - first:
+      74: 1044958627812673556
+    second: Camera_REQUIRED_BACK|SWindow008|Take 001|BaseLayer
+  - first:
+      74: -3999233977283433981
+    second: Camera_REQUIRED_BACK|SWindow009|Take 001|BaseLayer
+  - first:
+      74: 4996615452408461157
+    second: Camera_REQUIRED_BACK|SWindow012|Take 001|BaseLayer
+  - first:
+      74: 5787312629451452706
+    second: Camera_REQUIRED_BACK|SWindow013|Take 001|BaseLayer
+  - first:
+      74: 5957356714025806107
+    second: Camera_REQUIRED_BACK|SWindow014|Take 001|BaseLayer
+  - first:
+      74: 8031796175262489624
+    second: Camera_REQUIRED_BACK|SWindow015|Take 001|BaseLayer
+  - first:
+      74: 6868559937401414435
+    second: Camera_REQUIRED_BACK|SWindow2|Take 001|BaseLayer
+  - first:
+      74: -3493360489090932444
+    second: Camera_REQUIRED_BACK|SWindow4|Take 001|BaseLayer
+  - first:
+      74: -2358602486817257127
+    second: Camera_REQUIRED_BACK|SWindow5|Take 001|BaseLayer
+  - first:
+      74: -1782766233799834817
+    second: Camera_REQUIRED_BACK|SWindow6|Take 001|BaseLayer
+  - first:
+      74: -9003567099504602243
+    second: Camera_REQUIRED_BACK|Tram|Take 001|BaseLayer
+  - first:
+      74: -5497580114307919664
+    second: SWindow009|Board_flowershop|Take 001|BaseLayer
+  - first:
+      74: -5061706126533801531
+    second: SWindow009|Board_resto|Take 001|BaseLayer
+  - first:
+      74: -7287746876054646685
+    second: SWindow009|Camera_REQUIRED_BACK.Target|Take 001|BaseLayer
+  - first:
+      74: 3452029269016457475
+    second: SWindow009|Camera_REQUIRED_BACK|Take 001|BaseLayer
+  - first:
+      74: 7994473522582585701
+    second: SWindow009|Camera_REQUIRED_FRONT.Target|Take 001|BaseLayer
+  - first:
+      74: -1927497087512338643
+    second: SWindow009|Camera_REQUIRED_FRONT|Take 001|BaseLayer
+  - first:
+      74: 4951114403111570163
+    second: SWindow009|Chair/table003|Take 001|BaseLayer
+  - first:
+      74: -82860573330870381
+    second: SWindow009|Chair/table004|Take 001|BaseLayer
+  - first:
+      74: -3216767995611986672
+    second: SWindow009|Chair/table005|Take 001|BaseLayer
+  - first:
+      74: 4251943872221623502
+    second: SWindow009|Chair/table006|Take 001|BaseLayer
+  - first:
+      74: 8032651436923520923
+    second: SWindow009|Chair/table007|Take 001|BaseLayer
+  - first:
+      74: 7760547316145795311
+    second: SWindow009|Chair/table008|Take 001|BaseLayer
+  - first:
+      74: -8709522661620582934
+    second: SWindow009|Chair/table|Take 001|BaseLayer
+  - first:
+      74: 954223058472647159
+    second: SWindow009|chair001|Take 001|BaseLayer
+  - first:
+      74: -912835332580347036
+    second: SWindow009|chair003|Take 001|BaseLayer
+  - first:
+      74: 8165291063291438125
+    second: SWindow009|chair004|Take 001|BaseLayer
+  - first:
+      74: -4192394831076239376
+    second: SWindow009|chair005|Take 001|BaseLayer
+  - first:
+      74: -4430056040908598019
+    second: SWindow009|chair007|Take 001|BaseLayer
+  - first:
+      74: -1768456166792536715
+    second: SWindow009|chair008|Take 001|BaseLayer
+  - first:
+      74: -7469627981067862861
+    second: SWindow009|chair009|Take 001|BaseLayer
+  - first:
+      74: -1360492751053502638
+    second: SWindow009|chair010|Take 001|BaseLayer
+  - first:
+      74: -7496318418012028144
+    second: SWindow009|chair011|Take 001|BaseLayer
+  - first:
+      74: 8204838943418557145
+    second: SWindow009|chair012|Take 001|BaseLayer
+  - first:
+      74: 5161764522854204406
+    second: SWindow009|chair013|Take 001|BaseLayer
+  - first:
+      74: 7591336619586858068
+    second: SWindow009|chair014|Take 001|BaseLayer
+  - first:
+      74: -2817349057068229433
+    second: SWindow009|chair015|Take 001|BaseLayer
+  - first:
+      74: -7713220479411915972
+    second: SWindow009|chair2|Take 001|BaseLayer
+  - first:
+      74: 927702629385970743
+    second: SWindow009|chimney003|Take 001|BaseLayer
+  - first:
+      74: 1365899047499809728
+    second: SWindow009|chimney2|Take 001|BaseLayer
+  - first:
+      74: 2519926009710999891
+    second: SWindow009|Dumpster|Take 001|BaseLayer
+  - first:
+      74: -582536431487451467
+    second: SWindow009|FWindow008|Take 001|BaseLayer
+  - first:
+      74: -1936714075615564971
+    second: SWindow009|FWindow008|Take 001|BaseLayer.001
+  - first:
+      74: -2251454266655361237
+    second: SWindow009|FWindow009|Take 001|BaseLayer
+  - first:
+      74: 4468964342979229322
+    second: SWindow009|FWindow1|Take 001|BaseLayer
+  - first:
+      74: 87977968480004602
+    second: SWindow009|FWindow3|Take 001|BaseLayer
+  - first:
+      74: 2915212139319630854
+    second: SWindow009|FWindow3|Take 001|BaseLayer.001
+  - first:
+      74: 6877087675089814047
+    second: SWindow009|Gieter001|Take 001|BaseLayer
+  - first:
+      74: 6986459585141089466
+    second: SWindow009|Gieter|Take 001|BaseLayer
+  - first:
+      74: 8706957437332038707
+    second: SWindow009|Ground|Take 001|BaseLayer
+  - first:
+      74: 2232552403991876732
+    second: SWindow009|House|Take 001|BaseLayer
+  - first:
+      74: -3882517197072637280
+    second: SWindow009|L_sky_001.Target|Take 001|BaseLayer
+  - first:
+      74: 8205713231679926241
+    second: SWindow009|L_sky_001|Take 001|BaseLayer
+  - first:
+      74: -572768128236109561
+    second: SWindow009|L_sky_002.Target|Take 001|BaseLayer
+  - first:
+      74: 2104098554661341490
+    second: SWindow009|L_sky_002|Take 001|BaseLayer
+  - first:
+      74: -4885691260079706198
+    second: SWindow009|L_sky_003.Target|Take 001|BaseLayer
+  - first:
+      74: 1045158459669102729
+    second: SWindow009|L_sky_003|Take 001|BaseLayer
+  - first:
+      74: -8426706218694861372
+    second: SWindow009|L_sky_004.Target|Take 001|BaseLayer
+  - first:
+      74: 1821222049461739294
+    second: SWindow009|L_sky_004|Take 001|BaseLayer
+  - first:
+      74: 1261437691989344077
+    second: SWindow009|L_sky_005.Target|Take 001|BaseLayer
+  - first:
+      74: -6783062892604934036
+    second: SWindow009|L_sky_005|Take 001|BaseLayer
+  - first:
+      74: 886880675248594283
+    second: SWindow009|L_sky_006.Target|Take 001|BaseLayer
+  - first:
+      74: 4099291489930912033
+    second: SWindow009|L_sky_006|Take 001|BaseLayer
+  - first:
+      74: 3770419759093111652
+    second: SWindow009|L_sky_007.Target|Take 001|BaseLayer
+  - first:
+      74: -1561798221797354531
+    second: SWindow009|L_sky_007|Take 001|BaseLayer
+  - first:
+      74: -7215099274296707153
+    second: SWindow009|L_sky_008.Target|Take 001|BaseLayer
+  - first:
+      74: -1933371115430051353
+    second: SWindow009|L_sky_008|Take 001|BaseLayer
+  - first:
+      74: -5625849131702187175
+    second: SWindow009|L_sky_009.Target|Take 001|BaseLayer
+  - first:
+      74: -1225346080971902168
+    second: SWindow009|L_sky_009|Take 001|BaseLayer
+  - first:
+      74: -7110650686607719783
+    second: SWindow009|L_sky_010.Target|Take 001|BaseLayer
+  - first:
+      74: 5103945834596806049
+    second: SWindow009|L_sky_010|Take 001|BaseLayer
+  - first:
+      74: -4263607892558537328
+    second: SWindow009|L_sky_011.Target|Take 001|BaseLayer
+  - first:
+      74: -5308776343688540175
+    second: SWindow009|L_sky_011|Take 001|BaseLayer
+  - first:
+      74: 6179471412393791522
+    second: SWindow009|L_sky_012.Target|Take 001|BaseLayer
+  - first:
+      74: 5581182445977191613
+    second: SWindow009|L_sky_012|Take 001|BaseLayer
+  - first:
+      74: -7057635327510635251
+    second: SWindow009|L_sky_013.Target|Take 001|BaseLayer
+  - first:
+      74: 4402420249341901853
+    second: SWindow009|L_sky_013|Take 001|BaseLayer
+  - first:
+      74: -7040206319674987245
+    second: SWindow009|L_sky_014.Target|Take 001|BaseLayer
+  - first:
+      74: 9125447850198381987
+    second: SWindow009|L_sky_014|Take 001|BaseLayer
+  - first:
+      74: 3078072768288955334
+    second: SWindow009|L_sky_015.Target|Take 001|BaseLayer
+  - first:
+      74: 2277143210958127060
+    second: SWindow009|L_sky_015|Take 001|BaseLayer
+  - first:
+      74: -2845578957959754399
+    second: SWindow009|L_sky_016.Target|Take 001|BaseLayer
+  - first:
+      74: -7414083701557072314
+    second: SWindow009|L_sky_016|Take 001|BaseLayer
+  - first:
+      74: 8250680790266725950
+    second: SWindow009|L_sky_017.Target|Take 001|BaseLayer
+  - first:
+      74: 3067610749885164004
+    second: SWindow009|L_sky_017|Take 001|BaseLayer
+  - first:
+      74: 4156053832777932400
+    second: SWindow009|L_sky_018.Target|Take 001|BaseLayer
+  - first:
+      74: -8595885735089469096
+    second: SWindow009|L_sky_018|Take 001|BaseLayer
+  - first:
+      74: -3349675939204931008
+    second: SWindow009|L_sky_019.Target|Take 001|BaseLayer
+  - first:
+      74: 1633198870773689017
+    second: SWindow009|L_sky_019|Take 001|BaseLayer
+  - first:
+      74: 4413670766647066346
+    second: SWindow009|L_sky_020.Target|Take 001|BaseLayer
+  - first:
+      74: 4850023545970322677
+    second: SWindow009|L_sky_020|Take 001|BaseLayer
+  - first:
+      74: 7570761261048366
+    second: SWindow009|L_sky_021.Target|Take 001|BaseLayer
+  - first:
+      74: 8069952121574931922
+    second: SWindow009|L_sky_021|Take 001|BaseLayer
+  - first:
+      74: 8125306806236888873
+    second: SWindow009|L_sky_022.Target|Take 001|BaseLayer
+  - first:
+      74: 534492530995096586
+    second: SWindow009|L_sky_022|Take 001|BaseLayer
+  - first:
+      74: -7911418602505058689
+    second: SWindow009|L_sky_023.Target|Take 001|BaseLayer
+  - first:
+      74: -3189735227904098488
+    second: SWindow009|L_sky_023|Take 001|BaseLayer
+  - first:
+      74: -2456755565556481800
+    second: SWindow009|L_sky_024.Target|Take 001|BaseLayer
+  - first:
+      74: 6285514160792978260
+    second: SWindow009|L_sky_024|Take 001|BaseLayer
+  - first:
+      74: -3193111613823389979
+    second: SWindow009|L_SUN.Target|Take 001|BaseLayer
+  - first:
+      74: -654268534985067763
+    second: SWindow009|L_SUN|Take 001|BaseLayer
+  - first:
+      74: -8836702317620427269
+    second: SWindow009|Object003|Take 001|BaseLayer
+  - first:
+      74: -3507993161525773044
+    second: SWindow009|Object004|Take 001|BaseLayer
+  - first:
+      74: -3930660558667547314
+    second: SWindow009|Object005|Take 001|BaseLayer
+  - first:
+      74: 5251541689891436350
+    second: SWindow009|Object006|Take 001|BaseLayer
+  - first:
+      74: -1154083633445863056
+    second: SWindow009|Object007|Take 001|BaseLayer
+  - first:
+      74: 329743666985126555
+    second: SWindow009|Object008|Take 001|BaseLayer
+  - first:
+      74: -8542602472928746939
+    second: SWindow009|Object009|Take 001|BaseLayer
+  - first:
+      74: 1009711350445210859
+    second: SWindow009|Object010|Take 001|BaseLayer
+  - first:
+      74: 1085286939887146294
+    second: SWindow009|Object011|Take 001|BaseLayer
+  - first:
+      74: 7827334096080116890
+    second: SWindow009|Object012|Take 001|BaseLayer
+  - first:
+      74: 8344257768829828140
+    second: SWindow009|Object013|Take 001|BaseLayer
+  - first:
+      74: 5182232096984211380
+    second: SWindow009|Object015|Take 001|BaseLayer
+  - first:
+      74: -1038844134918694887
+    second: SWindow009|Object016|Take 001|BaseLayer
+  - first:
+      74: -2668496823035100188
+    second: SWindow009|Object017|Take 001|BaseLayer
+  - first:
+      74: -7794334435378953548
+    second: SWindow009|Object018|Take 001|BaseLayer
+  - first:
+      74: -3946652593538259908
+    second: SWindow009|Palet001|Take 001|BaseLayer
+  - first:
+      74: -5496392196782293440
+    second: SWindow009|Palet|Take 001|BaseLayer
+  - first:
+      74: -5847129954067637557
+    second: SWindow009|Parasol001|Take 001|BaseLayer
+  - first:
+      74: -8118794350825484849
+    second: SWindow009|Parasol002|Take 001|BaseLayer
+  - first:
+      74: -8784851374547502149
+    second: SWindow009|Parasol003|Take 001|BaseLayer
+  - first:
+      74: 1557515044558750792
+    second: SWindow009|Parasol|Take 001|BaseLayer
+  - first:
+      74: -7395016396906112599
+    second: SWindow009|Plane008|Take 001|BaseLayer
+  - first:
+      74: 666567599685423839
+    second: SWindow009|Plane008|Take 001|BaseLayer.001
+  - first:
+      74: -8053937262369116041
+    second: SWindow009|plants001|Take 001|BaseLayer
+  - first:
+      74: 6265801833130849405
+    second: SWindow009|plants002|Take 001|BaseLayer
+  - first:
+      74: 2044138247278601041
+    second: SWindow009|plants007|Take 001|BaseLayer
+  - first:
+      74: 4794390782687794448
+    second: SWindow009|plants010|Take 001|BaseLayer
+  - first:
+      74: 464665824485712619
+    second: SWindow009|plants011|Take 001|BaseLayer
+  - first:
+      74: -3512354857975927179
+    second: SWindow009|plants012|Take 001|BaseLayer
+  - first:
+      74: -3370688920168049712
+    second: SWindow009|plants013|Take 001|BaseLayer
+  - first:
+      74: -8583592986000694073
+    second: SWindow009|plants014|Take 001|BaseLayer
+  - first:
+      74: 2514215061942223656
+    second: SWindow009|plants015|Take 001|BaseLayer
+  - first:
+      74: 4373620338774779158
+    second: SWindow009|plants016|Take 001|BaseLayer
+  - first:
+      74: 8734966709501691937
+    second: SWindow009|plants017|Take 001|BaseLayer
+  - first:
+      74: 4998940032814179073
+    second: SWindow009|plants|Take 001|BaseLayer
+  - first:
+      74: 8198317612707465142
+    second: SWindow009|R_SUN|Take 001|BaseLayer
+  - first:
+      74: 7729382039826961588
+    second: SWindow009|Restaurant|Take 001|BaseLayer
+  - first:
+      74: 6424821035261160852
+    second: SWindow009|RWindow008|Take 001|BaseLayer
+  - first:
+      74: 8668060842162346228
+    second: SWindow009|RWindow009|Take 001|BaseLayer
+  - first:
+      74: 3194411024031826043
+    second: SWindow009|RWindow010|Take 001|BaseLayer
+  - first:
+      74: 8334273790719932360
+    second: SWindow009|RWindow011|Take 001|BaseLayer
+  - first:
+      74: 1196838916406841860
+    second: SWindow009|RWindow012|Take 001|BaseLayer
+  - first:
+      74: 7678609253469804707
+    second: SWindow009|RWindow013|Take 001|BaseLayer
+  - first:
+      74: -4590020190170292483
+    second: SWindow009|RWindow014|Take 001|BaseLayer
+  - first:
+      74: -2388057703886145030
+    second: SWindow009|RWindow1|Take 001|BaseLayer
+  - first:
+      74: -7517824017017896505
+    second: SWindow009|RWindow3|Take 001|BaseLayer
+  - first:
+      74: -4891239703267927955
+    second: SWindow009|RWindow4|Take 001|BaseLayer
+  - first:
+      74: 5749849810450435951
+    second: SWindow009|RWindow6|Take 001|BaseLayer
+  - first:
+      74: -3812726281544712104
+    second: SWindow009|Souvenirstore|Take 001|BaseLayer
+  - first:
+      74: -918436339752201184
+    second: SWindow009|SWindow007|Take 001|BaseLayer
+  - first:
+      74: 6948276098749843984
+    second: SWindow009|SWindow008|Take 001|BaseLayer
+  - first:
+      74: 6163344665481339760
+    second: SWindow009|SWindow009|Take 001|BaseLayer
+  - first:
+      74: -972627745239001428
+    second: SWindow009|SWindow012|Take 001|BaseLayer
+  - first:
+      74: -6982321247416544852
+    second: SWindow009|SWindow013|Take 001|BaseLayer
+  - first:
+      74: -8447430527728252378
+    second: SWindow009|SWindow014|Take 001|BaseLayer
+  - first:
+      74: -8868618225959389713
+    second: SWindow009|SWindow015|Take 001|BaseLayer
+  - first:
+      74: 365934504168457308
+    second: SWindow009|SWindow2|Take 001|BaseLayer
+  - first:
+      74: -8914100171245453101
+    second: SWindow009|SWindow4|Take 001|BaseLayer
+  - first:
+      74: 4742942364325131019
+    second: SWindow009|SWindow5|Take 001|BaseLayer
+  - first:
+      74: -5353897626589407357
+    second: SWindow009|SWindow6|Take 001|BaseLayer
+  - first:
+      74: -5523258625715781497
+    second: SWindow009|Tram|Take 001|BaseLayer
+  - first:
+      74: -5008878644839210634
+    second: House|Board_flowershop|Take 001|BaseLayer
+  - first:
+      74: 6370462434624125853
+    second: House|Board_resto|Take 001|BaseLayer
+  - first:
+      74: -6327503024428025541
+    second: House|Camera_REQUIRED_BACK.Target|Take 001|BaseLayer
+  - first:
+      74: -3686067999912072975
+    second: House|Camera_REQUIRED_BACK|Take 001|BaseLayer
+  - first:
+      74: 3874998849374819677
+    second: House|Camera_REQUIRED_FRONT.Target|Take 001|BaseLayer
+  - first:
+      74: 19147545996218572
+    second: House|Camera_REQUIRED_FRONT|Take 001|BaseLayer
+  - first:
+      74: -6798513644734805666
+    second: House|Chair/table003|Take 001|BaseLayer
+  - first:
+      74: -7475889893876672650
+    second: House|Chair/table004|Take 001|BaseLayer
+  - first:
+      74: -7580771805622633396
+    second: House|Chair/table005|Take 001|BaseLayer
+  - first:
+      74: 1459066459168350402
+    second: House|Chair/table006|Take 001|BaseLayer
+  - first:
+      74: -7309313493137200176
+    second: House|Chair/table007|Take 001|BaseLayer
+  - first:
+      74: 5645224084766030567
+    second: House|Chair/table008|Take 001|BaseLayer
+  - first:
+      74: -6671046582494004521
+    second: House|Chair/table|Take 001|BaseLayer
+  - first:
+      74: -161551296104267888
+    second: House|chair001|Take 001|BaseLayer
+  - first:
+      74: 2583431521493590358
+    second: House|chair003|Take 001|BaseLayer
+  - first:
+      74: -4621711375006038
+    second: House|chair004|Take 001|BaseLayer
+  - first:
+      74: -6473431729020427708
+    second: House|chair005|Take 001|BaseLayer
+  - first:
+      74: -7090263170502291264
+    second: House|chair007|Take 001|BaseLayer
+  - first:
+      74: -6234244638577429015
+    second: House|chair008|Take 001|BaseLayer
+  - first:
+      74: -9031011399912693820
+    second: House|chair009|Take 001|BaseLayer
+  - first:
+      74: -1307865874557742614
+    second: House|chair010|Take 001|BaseLayer
+  - first:
+      74: 6922968193725057100
+    second: House|chair011|Take 001|BaseLayer
+  - first:
+      74: 4754907037410021616
+    second: House|chair012|Take 001|BaseLayer
+  - first:
+      74: -4084209303655744166
+    second: House|chair013|Take 001|BaseLayer
+  - first:
+      74: -1201172402303269198
+    second: House|chair014|Take 001|BaseLayer
+  - first:
+      74: 5683657959707022065
+    second: House|chair015|Take 001|BaseLayer
+  - first:
+      74: 3089927144519871224
+    second: House|chair2|Take 001|BaseLayer
+  - first:
+      74: 2335069043427486635
+    second: House|chimney003|Take 001|BaseLayer
+  - first:
+      74: 8228690889757628276
+    second: House|chimney2|Take 001|BaseLayer
+  - first:
+      74: 1979648387592693380
+    second: House|Dumpster|Take 001|BaseLayer
+  - first:
+      74: 2939042520611885311
+    second: House|FWindow008|Take 001|BaseLayer
+  - first:
+      74: -1296304366613779903
+    second: House|FWindow008|Take 001|BaseLayer.001
+  - first:
+      74: -3856384828616425337
+    second: House|FWindow009|Take 001|BaseLayer
+  - first:
+      74: 4910571416300501215
+    second: House|FWindow1|Take 001|BaseLayer
+  - first:
+      74: -1336222411552947068
+    second: House|FWindow3|Take 001|BaseLayer
+  - first:
+      74: 3573513071705636551
+    second: House|FWindow3|Take 001|BaseLayer.001
+  - first:
+      74: -5089232997101537908
+    second: House|Gieter001|Take 001|BaseLayer
+  - first:
+      74: 7153607310084171702
+    second: House|Gieter|Take 001|BaseLayer
+  - first:
+      74: 5570203133229236531
+    second: House|Ground|Take 001|BaseLayer
+  - first:
+      74: -5684357426978867192
+    second: House|House|Take 001|BaseLayer
+  - first:
+      74: -3408890473249724254
+    second: House|L_sky_001.Target|Take 001|BaseLayer
+  - first:
+      74: 6822664372564874354
+    second: House|L_sky_001|Take 001|BaseLayer
+  - first:
+      74: 6163937045026083187
+    second: House|L_sky_002.Target|Take 001|BaseLayer
+  - first:
+      74: -279317102449477965
+    second: House|L_sky_002|Take 001|BaseLayer
+  - first:
+      74: 84112525312017314
+    second: House|L_sky_003.Target|Take 001|BaseLayer
+  - first:
+      74: -979912150278766425
+    second: House|L_sky_003|Take 001|BaseLayer
+  - first:
+      74: -5523389815202643044
+    second: House|L_sky_004.Target|Take 001|BaseLayer
+  - first:
+      74: 5753761338499287517
+    second: House|L_sky_004|Take 001|BaseLayer
+  - first:
+      74: -2602033249222687167
+    second: House|L_sky_005.Target|Take 001|BaseLayer
+  - first:
+      74: 2874015624712631349
+    second: House|L_sky_005|Take 001|BaseLayer
+  - first:
+      74: -2587574444308872555
+    second: House|L_sky_006.Target|Take 001|BaseLayer
+  - first:
+      74: 74283130157033013
+    second: House|L_sky_006|Take 001|BaseLayer
+  - first:
+      74: -5716188348300334073
+    second: House|L_sky_007.Target|Take 001|BaseLayer
+  - first:
+      74: 5201968956410129038
+    second: House|L_sky_007|Take 001|BaseLayer
+  - first:
+      74: 5320565671525503879
+    second: House|L_sky_008.Target|Take 001|BaseLayer
+  - first:
+      74: 4658039307201611553
+    second: House|L_sky_008|Take 001|BaseLayer
+  - first:
+      74: 2644855001740204204
+    second: House|L_sky_009.Target|Take 001|BaseLayer
+  - first:
+      74: -4142038543043744383
+    second: House|L_sky_009|Take 001|BaseLayer
+  - first:
+      74: 8823205595870058800
+    second: House|L_sky_010.Target|Take 001|BaseLayer
+  - first:
+      74: -7629207514920078289
+    second: House|L_sky_010|Take 001|BaseLayer
+  - first:
+      74: 4450749528393345208
+    second: House|L_sky_011.Target|Take 001|BaseLayer
+  - first:
+      74: -1662279624389266763
+    second: House|L_sky_011|Take 001|BaseLayer
+  - first:
+      74: -1294509650870485369
+    second: House|L_sky_012.Target|Take 001|BaseLayer
+  - first:
+      74: -9024085839136564372
+    second: House|L_sky_012|Take 001|BaseLayer
+  - first:
+      74: -1082616253206293084
+    second: House|L_sky_013.Target|Take 001|BaseLayer
+  - first:
+      74: 3398915335838466314
+    second: House|L_sky_013|Take 001|BaseLayer
+  - first:
+      74: 6545808829366353119
+    second: House|L_sky_014.Target|Take 001|BaseLayer
+  - first:
+      74: 1626541966253397031
+    second: House|L_sky_014|Take 001|BaseLayer
+  - first:
+      74: 2002195365340872824
+    second: House|L_sky_015.Target|Take 001|BaseLayer
+  - first:
+      74: 2086211415101055490
+    second: House|L_sky_015|Take 001|BaseLayer
+  - first:
+      74: -2706431146726521508
+    second: House|L_sky_016.Target|Take 001|BaseLayer
+  - first:
+      74: -8917695802916439812
+    second: House|L_sky_016|Take 001|BaseLayer
+  - first:
+      74: -1087921542357607957
+    second: House|L_sky_017.Target|Take 001|BaseLayer
+  - first:
+      74: 411729584036362934
+    second: House|L_sky_017|Take 001|BaseLayer
+  - first:
+      74: 4403769923504490259
+    second: House|L_sky_018.Target|Take 001|BaseLayer
+  - first:
+      74: 1417576501340831388
+    second: House|L_sky_018|Take 001|BaseLayer
+  - first:
+      74: -5962722355479796076
+    second: House|L_sky_019.Target|Take 001|BaseLayer
+  - first:
+      74: -1578009214268323640
+    second: House|L_sky_019|Take 001|BaseLayer
+  - first:
+      74: 2129037706664795333
+    second: House|L_sky_020.Target|Take 001|BaseLayer
+  - first:
+      74: 2670282814576556832
+    second: House|L_sky_020|Take 001|BaseLayer
+  - first:
+      74: -442366294310466173
+    second: House|L_sky_021.Target|Take 001|BaseLayer
+  - first:
+      74: -3794885584673587624
+    second: House|L_sky_021|Take 001|BaseLayer
+  - first:
+      74: 6785587174289046792
+    second: House|L_sky_022.Target|Take 001|BaseLayer
+  - first:
+      74: 5326869307646451475
+    second: House|L_sky_022|Take 001|BaseLayer
+  - first:
+      74: -8684375012633400717
+    second: House|L_sky_023.Target|Take 001|BaseLayer
+  - first:
+      74: 7587496024641910075
+    second: House|L_sky_023|Take 001|BaseLayer
+  - first:
+      74: -7220327063452379068
+    second: House|L_sky_024.Target|Take 001|BaseLayer
+  - first:
+      74: -5770276668848557399
+    second: House|L_sky_024|Take 001|BaseLayer
+  - first:
+      74: -2064427636124774082
+    second: House|L_SUN.Target|Take 001|BaseLayer
+  - first:
+      74: 2305302815982099378
+    second: House|L_SUN|Take 001|BaseLayer
+  - first:
+      74: 479864478690678857
+    second: House|Object003|Take 001|BaseLayer
+  - first:
+      74: -6127440001239617561
+    second: House|Object004|Take 001|BaseLayer
+  - first:
+      74: -5743297415271271824
+    second: House|Object005|Take 001|BaseLayer
+  - first:
+      74: -5044634970668897074
+    second: House|Object006|Take 001|BaseLayer
+  - first:
+      74: 6493668295289183425
+    second: House|Object007|Take 001|BaseLayer
+  - first:
+      74: -6649684276323258677
+    second: House|Object008|Take 001|BaseLayer
+  - first:
+      74: 8076726511959008842
+    second: House|Object009|Take 001|BaseLayer
+  - first:
+      74: -927441084796195544
+    second: House|Object010|Take 001|BaseLayer
+  - first:
+      74: 8347194883035057633
+    second: House|Object011|Take 001|BaseLayer
+  - first:
+      74: 2366803103693731207
+    second: House|Object012|Take 001|BaseLayer
+  - first:
+      74: -7333344015442410966
+    second: House|Object013|Take 001|BaseLayer
+  - first:
+      74: -1644075674497000355
+    second: House|Object015|Take 001|BaseLayer
+  - first:
+      74: 7771272333285379417
+    second: House|Object016|Take 001|BaseLayer
+  - first:
+      74: 3796804995283134708
+    second: House|Object017|Take 001|BaseLayer
+  - first:
+      74: -5997226403806568409
+    second: House|Object018|Take 001|BaseLayer
+  - first:
+      74: 335538131389311149
+    second: House|Palet001|Take 001|BaseLayer
+  - first:
+      74: 8742474020448963474
+    second: House|Palet|Take 001|BaseLayer
+  - first:
+      74: 2305630932647713231
+    second: House|Parasol001|Take 001|BaseLayer
+  - first:
+      74: -5659822910577847047
+    second: House|Parasol002|Take 001|BaseLayer
+  - first:
+      74: -4393352730554947786
+    second: House|Parasol003|Take 001|BaseLayer
+  - first:
+      74: 1702748063618427189
+    second: House|Parasol|Take 001|BaseLayer
+  - first:
+      74: 7304440750515415990
+    second: House|Plane008|Take 001|BaseLayer
+  - first:
+      74: -6491636860930895023
+    second: House|Plane008|Take 001|BaseLayer.001
+  - first:
+      74: 2363267484438322371
+    second: House|plants001|Take 001|BaseLayer
+  - first:
+      74: 1261650482370333927
+    second: House|plants002|Take 001|BaseLayer
+  - first:
+      74: 2063609709792218830
+    second: House|plants007|Take 001|BaseLayer
+  - first:
+      74: -6551385308562256266
+    second: House|plants010|Take 001|BaseLayer
+  - first:
+      74: -282222147216577851
+    second: House|plants011|Take 001|BaseLayer
+  - first:
+      74: 7619401279065826233
+    second: House|plants012|Take 001|BaseLayer
+  - first:
+      74: 5123962066498931579
+    second: House|plants013|Take 001|BaseLayer
+  - first:
+      74: 7282331606930146057
+    second: House|plants014|Take 001|BaseLayer
+  - first:
+      74: -1241531922578096330
+    second: House|plants015|Take 001|BaseLayer
+  - first:
+      74: 1916394912789633371
+    second: House|plants016|Take 001|BaseLayer
+  - first:
+      74: 6690271869833586722
+    second: House|plants017|Take 001|BaseLayer
+  - first:
+      74: 7822728769553459167
+    second: House|plants|Take 001|BaseLayer
+  - first:
+      74: -3851061580015702587
+    second: House|R_SUN|Take 001|BaseLayer
+  - first:
+      74: -2963408050712364809
+    second: House|Restaurant|Take 001|BaseLayer
+  - first:
+      74: -4558474887069076110
+    second: House|RWindow008|Take 001|BaseLayer
+  - first:
+      74: -5579553887710752592
+    second: House|RWindow009|Take 001|BaseLayer
+  - first:
+      74: -821861863322689636
+    second: House|RWindow010|Take 001|BaseLayer
+  - first:
+      74: 3568010433681582177
+    second: House|RWindow011|Take 001|BaseLayer
+  - first:
+      74: 5694331153780901166
+    second: House|RWindow012|Take 001|BaseLayer
+  - first:
+      74: 7339168157638219486
+    second: House|RWindow013|Take 001|BaseLayer
+  - first:
+      74: -4525773118225120581
+    second: House|RWindow014|Take 001|BaseLayer
+  - first:
+      74: -7223500863090178923
+    second: House|RWindow1|Take 001|BaseLayer
+  - first:
+      74: -623308045999462661
+    second: House|RWindow3|Take 001|BaseLayer
+  - first:
+      74: 7340270013449862095
+    second: House|RWindow4|Take 001|BaseLayer
+  - first:
+      74: -3572051743538740275
+    second: House|RWindow6|Take 001|BaseLayer
+  - first:
+      74: -5483601472999395160
+    second: House|Souvenirstore|Take 001|BaseLayer
+  - first:
+      74: 8611631054637243219
+    second: House|SWindow007|Take 001|BaseLayer
+  - first:
+      74: -863380917866723761
+    second: House|SWindow008|Take 001|BaseLayer
+  - first:
+      74: 12848807986609262
+    second: House|SWindow009|Take 001|BaseLayer
+  - first:
+      74: -1761200324097985944
+    second: House|SWindow012|Take 001|BaseLayer
+  - first:
+      74: 3144731626287579702
+    second: House|SWindow013|Take 001|BaseLayer
+  - first:
+      74: 2639021541256731730
+    second: House|SWindow014|Take 001|BaseLayer
+  - first:
+      74: -7525197290730205781
+    second: House|SWindow015|Take 001|BaseLayer
+  - first:
+      74: -5151956598710503366
+    second: House|SWindow2|Take 001|BaseLayer
+  - first:
+      74: 865169168636187050
+    second: House|SWindow4|Take 001|BaseLayer
+  - first:
+      74: 5495899329309017817
+    second: House|SWindow5|Take 001|BaseLayer
+  - first:
+      74: 7097834661686013920
+    second: House|SWindow6|Take 001|BaseLayer
+  - first:
+      74: -3954585556775721468
+    second: House|Tram|Take 001|BaseLayer
+  - first:
+      74: 2584772075583480899
+    second: Restaurant|Board_flowershop|Take 001|BaseLayer
+  - first:
+      74: -7227504428103207761
+    second: Restaurant|Board_resto|Take 001|BaseLayer
+  - first:
+      74: -4444426141452170852
+    second: Restaurant|Camera_REQUIRED_BACK.Target|Take 001|BaseLayer
+  - first:
+      74: 9050527424535377005
+    second: Restaurant|Camera_REQUIRED_BACK|Take 001|BaseLayer
+  - first:
+      74: 5986887883361708934
+    second: Restaurant|Camera_REQUIRED_FRONT.Target|Take 001|BaseLayer
+  - first:
+      74: -8368647432878162799
+    second: Restaurant|Camera_REQUIRED_FRONT|Take 001|BaseLayer
+  - first:
+      74: -4158564074573684792
+    second: Restaurant|Chair/table003|Take 001|BaseLayer
+  - first:
+      74: -6522222562320182632
+    second: Restaurant|Chair/table004|Take 001|BaseLayer
+  - first:
+      74: 3810852178298870927
+    second: Restaurant|Chair/table005|Take 001|BaseLayer
+  - first:
+      74: -8165575718740933244
+    second: Restaurant|Chair/table006|Take 001|BaseLayer
+  - first:
+      74: -5910212870000612269
+    second: Restaurant|Chair/table007|Take 001|BaseLayer
+  - first:
+      74: -8829203176031943806
+    second: Restaurant|Chair/table008|Take 001|BaseLayer
+  - first:
+      74: 8529519809401789570
+    second: Restaurant|Chair/table|Take 001|BaseLayer
+  - first:
+      74: -5045884885158336851
+    second: Restaurant|chair001|Take 001|BaseLayer
+  - first:
+      74: -6499587619214839135
+    second: Restaurant|chair003|Take 001|BaseLayer
+  - first:
+      74: 7281155647298480707
+    second: Restaurant|chair004|Take 001|BaseLayer
+  - first:
+      74: 4205832760819820609
+    second: Restaurant|chair005|Take 001|BaseLayer
+  - first:
+      74: -3042192201870149808
+    second: Restaurant|chair007|Take 001|BaseLayer
+  - first:
+      74: 6261538605369756176
+    second: Restaurant|chair008|Take 001|BaseLayer
+  - first:
+      74: -6989356559625543392
+    second: Restaurant|chair009|Take 001|BaseLayer
+  - first:
+      74: 304368357116607032
+    second: Restaurant|chair010|Take 001|BaseLayer
+  - first:
+      74: 4216897521011800697
+    second: Restaurant|chair011|Take 001|BaseLayer
+  - first:
+      74: 3946253873511962208
+    second: Restaurant|chair012|Take 001|BaseLayer
+  - first:
+      74: -5029065037680610260
+    second: Restaurant|chair013|Take 001|BaseLayer
+  - first:
+      74: 4795299249853339047
+    second: Restaurant|chair014|Take 001|BaseLayer
+  - first:
+      74: 5084425154047665273
+    second: Restaurant|chair015|Take 001|BaseLayer
+  - first:
+      74: 7847543105718337304
+    second: Restaurant|chair2|Take 001|BaseLayer
+  - first:
+      74: 5130410318354809690
+    second: Restaurant|chimney003|Take 001|BaseLayer
+  - first:
+      74: 3507581903218386908
+    second: Restaurant|chimney2|Take 001|BaseLayer
+  - first:
+      74: -6431181205624038330
+    second: Restaurant|Dumpster|Take 001|BaseLayer
+  - first:
+      74: 6173051118942399173
+    second: Restaurant|FWindow008|Take 001|BaseLayer
+  - first:
+      74: -1459587645052391530
+    second: Restaurant|FWindow008|Take 001|BaseLayer.001
+  - first:
+      74: -1908986453084933
+    second: Restaurant|FWindow009|Take 001|BaseLayer
+  - first:
+      74: 2636448940500322674
+    second: Restaurant|FWindow1|Take 001|BaseLayer
+  - first:
+      74: -5973378428586753202
+    second: Restaurant|FWindow3|Take 001|BaseLayer
+  - first:
+      74: 8990686364666764714
+    second: Restaurant|FWindow3|Take 001|BaseLayer.001
+  - first:
+      74: -8821820929000198514
+    second: Restaurant|Gieter001|Take 001|BaseLayer
+  - first:
+      74: -4204450634994632062
+    second: Restaurant|Gieter|Take 001|BaseLayer
+  - first:
+      74: 8097410293033038622
+    second: Restaurant|Ground|Take 001|BaseLayer
+  - first:
+      74: -1819466666217129255
+    second: Restaurant|House|Take 001|BaseLayer
+  - first:
+      74: 733462391872325248
+    second: Restaurant|L_sky_001.Target|Take 001|BaseLayer
+  - first:
+      74: 2157348967114675800
+    second: Restaurant|L_sky_001|Take 001|BaseLayer
+  - first:
+      74: -7697800819369651780
+    second: Restaurant|L_sky_002.Target|Take 001|BaseLayer
+  - first:
+      74: -3400783997461463917
+    second: Restaurant|L_sky_002|Take 001|BaseLayer
+  - first:
+      74: 5669665433338926901
+    second: Restaurant|L_sky_003.Target|Take 001|BaseLayer
+  - first:
+      74: 6468732859802714538
+    second: Restaurant|L_sky_003|Take 001|BaseLayer
+  - first:
+      74: -3282753788625311286
+    second: Restaurant|L_sky_004.Target|Take 001|BaseLayer
+  - first:
+      74: -7282746227084551975
+    second: Restaurant|L_sky_004|Take 001|BaseLayer
+  - first:
+      74: -3280194162353803439
+    second: Restaurant|L_sky_005.Target|Take 001|BaseLayer
+  - first:
+      74: 8225894957574131315
+    second: Restaurant|L_sky_005|Take 001|BaseLayer
+  - first:
+      74: -995272916533331758
+    second: Restaurant|L_sky_006.Target|Take 001|BaseLayer
+  - first:
+      74: -4008673187949717738
+    second: Restaurant|L_sky_006|Take 001|BaseLayer
+  - first:
+      74: 8204715193017531893
+    second: Restaurant|L_sky_007.Target|Take 001|BaseLayer
+  - first:
+      74: 8944876520882836311
+    second: Restaurant|L_sky_007|Take 001|BaseLayer
+  - first:
+      74: -5939041321421738814
+    second: Restaurant|L_sky_008.Target|Take 001|BaseLayer
+  - first:
+      74: -6131704732767276337
+    second: Restaurant|L_sky_008|Take 001|BaseLayer
+  - first:
+      74: -2529023723702813939
+    second: Restaurant|L_sky_009.Target|Take 001|BaseLayer
+  - first:
+      74: -3344664037283049862
+    second: Restaurant|L_sky_009|Take 001|BaseLayer
+  - first:
+      74: -5171524311053125533
+    second: Restaurant|L_sky_010.Target|Take 001|BaseLayer
+  - first:
+      74: 7568356563363895550
+    second: Restaurant|L_sky_010|Take 001|BaseLayer
+  - first:
+      74: 4107794702370284376
+    second: Restaurant|L_sky_011.Target|Take 001|BaseLayer
+  - first:
+      74: 1618140251959618184
+    second: Restaurant|L_sky_011|Take 001|BaseLayer
+  - first:
+      74: -6489934721762251814
+    second: Restaurant|L_sky_012.Target|Take 001|BaseLayer
+  - first:
+      74: 2403312546912941439
+    second: Restaurant|L_sky_012|Take 001|BaseLayer
+  - first:
+      74: -6683579933905524317
+    second: Restaurant|L_sky_013.Target|Take 001|BaseLayer
+  - first:
+      74: -1122917994547131299
+    second: Restaurant|L_sky_013|Take 001|BaseLayer
+  - first:
+      74: 258085714233918630
+    second: Restaurant|L_sky_014.Target|Take 001|BaseLayer
+  - first:
+      74: 970860946953749922
+    second: Restaurant|L_sky_014|Take 001|BaseLayer
+  - first:
+      74: -881380323329623706
+    second: Restaurant|L_sky_015.Target|Take 001|BaseLayer
+  - first:
+      74: -7068849079108236786
+    second: Restaurant|L_sky_015|Take 001|BaseLayer
+  - first:
+      74: -8939886408829252694
+    second: Restaurant|L_sky_016.Target|Take 001|BaseLayer
+  - first:
+      74: 5156698857295891454
+    second: Restaurant|L_sky_016|Take 001|BaseLayer
+  - first:
+      74: -7102952511568730260
+    second: Restaurant|L_sky_017.Target|Take 001|BaseLayer
+  - first:
+      74: -8065655871903125824
+    second: Restaurant|L_sky_017|Take 001|BaseLayer
+  - first:
+      74: 4996038337780187186
+    second: Restaurant|L_sky_018.Target|Take 001|BaseLayer
+  - first:
+      74: -1527458191896124814
+    second: Restaurant|L_sky_018|Take 001|BaseLayer
+  - first:
+      74: 7055961535694347792
+    second: Restaurant|L_sky_019.Target|Take 001|BaseLayer
+  - first:
+      74: 3256450984131275184
+    second: Restaurant|L_sky_019|Take 001|BaseLayer
+  - first:
+      74: 4897851362779444214
+    second: Restaurant|L_sky_020.Target|Take 001|BaseLayer
+  - first:
+      74: -1644421207168757352
+    second: Restaurant|L_sky_020|Take 001|BaseLayer
+  - first:
+      74: -1572366234864218408
+    second: Restaurant|L_sky_021.Target|Take 001|BaseLayer
+  - first:
+      74: -1994566063239583572
+    second: Restaurant|L_sky_021|Take 001|BaseLayer
+  - first:
+      74: 3339463777128612307
+    second: Restaurant|L_sky_022.Target|Take 001|BaseLayer
+  - first:
+      74: -1439983565077669029
+    second: Restaurant|L_sky_022|Take 001|BaseLayer
+  - first:
+      74: 7328984577065218289
+    second: Restaurant|L_sky_023.Target|Take 001|BaseLayer
+  - first:
+      74: 2566928422406665807
+    second: Restaurant|L_sky_023|Take 001|BaseLayer
+  - first:
+      74: -6226009991819143213
+    second: Restaurant|L_sky_024.Target|Take 001|BaseLayer
+  - first:
+      74: 3633021112067929443
+    second: Restaurant|L_sky_024|Take 001|BaseLayer
+  - first:
+      74: 8197699541583648576
+    second: Restaurant|L_SUN.Target|Take 001|BaseLayer
+  - first:
+      74: 8104565893227625305
+    second: Restaurant|L_SUN|Take 001|BaseLayer
+  - first:
+      74: 5846457156744014354
+    second: Restaurant|Object003|Take 001|BaseLayer
+  - first:
+      74: -150232857761799640
+    second: Restaurant|Object004|Take 001|BaseLayer
+  - first:
+      74: 8930978360768554842
+    second: Restaurant|Object005|Take 001|BaseLayer
+  - first:
+      74: 5737793710641739087
+    second: Restaurant|Object006|Take 001|BaseLayer
+  - first:
+      74: -550559727509002535
+    second: Restaurant|Object007|Take 001|BaseLayer
+  - first:
+      74: -6670077204754882374
+    second: Restaurant|Object008|Take 001|BaseLayer
+  - first:
+      74: -4755255946229518179
+    second: Restaurant|Object009|Take 001|BaseLayer
+  - first:
+      74: -2760527012079786249
+    second: Restaurant|Object010|Take 001|BaseLayer
+  - first:
+      74: -3693086779649481431
+    second: Restaurant|Object011|Take 001|BaseLayer
+  - first:
+      74: -2708293734638859731
+    second: Restaurant|Object012|Take 001|BaseLayer
+  - first:
+      74: -6194703081142971635
+    second: Restaurant|Object013|Take 001|BaseLayer
+  - first:
+      74: -2559128674279638557
+    second: Restaurant|Object015|Take 001|BaseLayer
+  - first:
+      74: -8314831141126881494
+    second: Restaurant|Object016|Take 001|BaseLayer
+  - first:
+      74: 3107451593783105506
+    second: Restaurant|Object017|Take 001|BaseLayer
+  - first:
+      74: -7313433503198692632
+    second: Restaurant|Object018|Take 001|BaseLayer
+  - first:
+      74: 7582405970714080571
+    second: Restaurant|Palet001|Take 001|BaseLayer
+  - first:
+      74: -1942619261879755559
+    second: Restaurant|Palet|Take 001|BaseLayer
+  - first:
+      74: -4812212686279789558
+    second: Restaurant|Parasol001|Take 001|BaseLayer
+  - first:
+      74: 4559327894965593544
+    second: Restaurant|Parasol002|Take 001|BaseLayer
+  - first:
+      74: -5629405173126125163
+    second: Restaurant|Parasol003|Take 001|BaseLayer
+  - first:
+      74: 5527178940511665562
+    second: Restaurant|Parasol|Take 001|BaseLayer
+  - first:
+      74: 7702788161138062882
+    second: Restaurant|Plane008|Take 001|BaseLayer
+  - first:
+      74: 5191493391011962045
+    second: Restaurant|Plane008|Take 001|BaseLayer.001
+  - first:
+      74: -5953650146194692668
+    second: Restaurant|plants001|Take 001|BaseLayer
+  - first:
+      74: -4884114165701702543
+    second: Restaurant|plants002|Take 001|BaseLayer
+  - first:
+      74: -8798940497896075790
+    second: Restaurant|plants007|Take 001|BaseLayer
+  - first:
+      74: 8015014269540575789
+    second: Restaurant|plants010|Take 001|BaseLayer
+  - first:
+      74: 6243920899642371768
+    second: Restaurant|plants011|Take 001|BaseLayer
+  - first:
+      74: -610642207797649535
+    second: Restaurant|plants012|Take 001|BaseLayer
+  - first:
+      74: -3093002313607518849
+    second: Restaurant|plants013|Take 001|BaseLayer
+  - first:
+      74: -7633282700263370477
+    second: Restaurant|plants014|Take 001|BaseLayer
+  - first:
+      74: 2739868184347411623
+    second: Restaurant|plants015|Take 001|BaseLayer
+  - first:
+      74: 7304805875148795946
+    second: Restaurant|plants016|Take 001|BaseLayer
+  - first:
+      74: -4423904952068014106
+    second: Restaurant|plants017|Take 001|BaseLayer
+  - first:
+      74: -5492052577660265872
+    second: Restaurant|plants|Take 001|BaseLayer
+  - first:
+      74: 224928897209454809
+    second: Restaurant|R_SUN|Take 001|BaseLayer
+  - first:
+      74: 2970316246789665404
+    second: Restaurant|Restaurant|Take 001|BaseLayer
+  - first:
+      74: -1927867249591882611
+    second: Restaurant|RWindow008|Take 001|BaseLayer
+  - first:
+      74: -4141008395317428868
+    second: Restaurant|RWindow009|Take 001|BaseLayer
+  - first:
+      74: -8015400334164004685
+    second: Restaurant|RWindow010|Take 001|BaseLayer
+  - first:
+      74: 3961781970520574193
+    second: Restaurant|RWindow011|Take 001|BaseLayer
+  - first:
+      74: -1135862482688188610
+    second: Restaurant|RWindow012|Take 001|BaseLayer
+  - first:
+      74: 2414615574301021316
+    second: Restaurant|RWindow013|Take 001|BaseLayer
+  - first:
+      74: 3769907014182172366
+    second: Restaurant|RWindow014|Take 001|BaseLayer
+  - first:
+      74: 934803677265763449
+    second: Restaurant|RWindow1|Take 001|BaseLayer
+  - first:
+      74: -9074351304602319185
+    second: Restaurant|RWindow3|Take 001|BaseLayer
+  - first:
+      74: -8605684924023029032
+    second: Restaurant|RWindow4|Take 001|BaseLayer
+  - first:
+      74: -7959957783497528434
+    second: Restaurant|RWindow6|Take 001|BaseLayer
+  - first:
+      74: 5713337369177507489
+    second: Restaurant|Souvenirstore|Take 001|BaseLayer
+  - first:
+      74: -6068201554862612144
+    second: Restaurant|SWindow007|Take 001|BaseLayer
+  - first:
+      74: 3545341769143397692
+    second: Restaurant|SWindow008|Take 001|BaseLayer
+  - first:
+      74: 4400754150888375716
+    second: Restaurant|SWindow009|Take 001|BaseLayer
+  - first:
+      74: -6134367042966804969
+    second: Restaurant|SWindow012|Take 001|BaseLayer
+  - first:
+      74: 6287555350330236084
+    second: Restaurant|SWindow013|Take 001|BaseLayer
+  - first:
+      74: -147622697561963159
+    second: Restaurant|SWindow014|Take 001|BaseLayer
+  - first:
+      74: 7137568229402402609
+    second: Restaurant|SWindow015|Take 001|BaseLayer
+  - first:
+      74: -1443781399409169759
+    second: Restaurant|SWindow2|Take 001|BaseLayer
+  - first:
+      74: 4854776222209211620
+    second: Restaurant|SWindow4|Take 001|BaseLayer
+  - first:
+      74: -4937663148699123376
+    second: Restaurant|SWindow5|Take 001|BaseLayer
+  - first:
+      74: -2084810996766840384
+    second: Restaurant|SWindow6|Take 001|BaseLayer
+  - first:
+      74: -157975271982784417
+    second: Restaurant|Tram|Take 001|BaseLayer
+  - first:
+      74: -7313282017296166458
+    second: RWindow4|Board_flowershop|Take 001|BaseLayer
+  - first:
+      74: 2732544777630923542
+    second: RWindow4|Board_resto|Take 001|BaseLayer
+  - first:
+      74: -6767710388672580479
+    second: RWindow4|Camera_REQUIRED_BACK.Target|Take 001|BaseLayer
+  - first:
+      74: 8867915986448666907
+    second: RWindow4|Camera_REQUIRED_BACK|Take 001|BaseLayer
+  - first:
+      74: -4209254861887673049
+    second: RWindow4|Camera_REQUIRED_FRONT.Target|Take 001|BaseLayer
+  - first:
+      74: -4374413500594094531
+    second: RWindow4|Camera_REQUIRED_FRONT|Take 001|BaseLayer
+  - first:
+      74: -5835210384375137428
+    second: RWindow4|Chair/table003|Take 001|BaseLayer
+  - first:
+      74: 3555717210067239245
+    second: RWindow4|Chair/table004|Take 001|BaseLayer
+  - first:
+      74: -5538864760125234631
+    second: RWindow4|Chair/table005|Take 001|BaseLayer
+  - first:
+      74: -54234153190270286
+    second: RWindow4|Chair/table006|Take 001|BaseLayer
+  - first:
+      74: -8105075409759404808
+    second: RWindow4|Chair/table007|Take 001|BaseLayer
+  - first:
+      74: 4041273612591378549
+    second: RWindow4|Chair/table008|Take 001|BaseLayer
+  - first:
+      74: 3984147382258468839
+    second: RWindow4|Chair/table|Take 001|BaseLayer
+  - first:
+      74: -8319641738413532774
+    second: RWindow4|chair001|Take 001|BaseLayer
+  - first:
+      74: 5290753627931245776
+    second: RWindow4|chair003|Take 001|BaseLayer
+  - first:
+      74: -5825124997083755585
+    second: RWindow4|chair004|Take 001|BaseLayer
+  - first:
+      74: 4794025922056632410
+    second: RWindow4|chair005|Take 001|BaseLayer
+  - first:
+      74: -8812433110784736826
+    second: RWindow4|chair007|Take 001|BaseLayer
+  - first:
+      74: -1883588076445534326
+    second: RWindow4|chair008|Take 001|BaseLayer
+  - first:
+      74: -44575308123173743
+    second: RWindow4|chair009|Take 001|BaseLayer
+  - first:
+      74: 6449212199314654279
+    second: RWindow4|chair010|Take 001|BaseLayer
+  - first:
+      74: -3533673135462860456
+    second: RWindow4|chair011|Take 001|BaseLayer
+  - first:
+      74: -8403004349240354983
+    second: RWindow4|chair012|Take 001|BaseLayer
+  - first:
+      74: 8181016764845316599
+    second: RWindow4|chair013|Take 001|BaseLayer
+  - first:
+      74: -4890709448881150632
+    second: RWindow4|chair014|Take 001|BaseLayer
+  - first:
+      74: 5006141027381758248
+    second: RWindow4|chair015|Take 001|BaseLayer
+  - first:
+      74: 2001019063899121434
+    second: RWindow4|chair2|Take 001|BaseLayer
+  - first:
+      74: 5613308187185979469
+    second: RWindow4|chimney003|Take 001|BaseLayer
+  - first:
+      74: 4626286763342940438
+    second: RWindow4|chimney2|Take 001|BaseLayer
+  - first:
+      74: -3991666256279077527
+    second: RWindow4|Dumpster|Take 001|BaseLayer
+  - first:
+      74: -3094252426914214347
+    second: RWindow4|FWindow008|Take 001|BaseLayer
+  - first:
+      74: -4192160083155227767
+    second: RWindow4|FWindow008|Take 001|BaseLayer.001
+  - first:
+      74: -758075917484507413
+    second: RWindow4|FWindow009|Take 001|BaseLayer
+  - first:
+      74: -4864277823939969557
+    second: RWindow4|FWindow1|Take 001|BaseLayer
+  - first:
+      74: 3082017556846439929
+    second: RWindow4|FWindow3|Take 001|BaseLayer
+  - first:
+      74: 7410001346423212985
+    second: RWindow4|FWindow3|Take 001|BaseLayer.001
+  - first:
+      74: 2718728079463323282
+    second: RWindow4|Gieter001|Take 001|BaseLayer
+  - first:
+      74: -2498313520036101234
+    second: RWindow4|Gieter|Take 001|BaseLayer
+  - first:
+      74: 1799071823388889705
+    second: RWindow4|Ground|Take 001|BaseLayer
+  - first:
+      74: -8733748517291659423
+    second: RWindow4|House|Take 001|BaseLayer
+  - first:
+      74: -6070253978936388702
+    second: RWindow4|L_sky_001.Target|Take 001|BaseLayer
+  - first:
+      74: -148083519589016818
+    second: RWindow4|L_sky_001|Take 001|BaseLayer
+  - first:
+      74: -4330014195798004787
+    second: RWindow4|L_sky_002.Target|Take 001|BaseLayer
+  - first:
+      74: -1711722033491933549
+    second: RWindow4|L_sky_002|Take 001|BaseLayer
+  - first:
+      74: 7697531668726323629
+    second: RWindow4|L_sky_003.Target|Take 001|BaseLayer
+  - first:
+      74: 2530535611689520468
+    second: RWindow4|L_sky_003|Take 001|BaseLayer
+  - first:
+      74: -9144577220813562554
+    second: RWindow4|L_sky_004.Target|Take 001|BaseLayer
+  - first:
+      74: -6799136917625430485
+    second: RWindow4|L_sky_004|Take 001|BaseLayer
+  - first:
+      74: -6822497449237515486
+    second: RWindow4|L_sky_005.Target|Take 001|BaseLayer
+  - first:
+      74: 4219843611622246621
+    second: RWindow4|L_sky_005|Take 001|BaseLayer
+  - first:
+      74: 6275907920010152134
+    second: RWindow4|L_sky_006.Target|Take 001|BaseLayer
+  - first:
+      74: -9186232175626724265
+    second: RWindow4|L_sky_006|Take 001|BaseLayer
+  - first:
+      74: 3534772328037702373
+    second: RWindow4|L_sky_007.Target|Take 001|BaseLayer
+  - first:
+      74: 3236269436814632722
+    second: RWindow4|L_sky_007|Take 001|BaseLayer
+  - first:
+      74: -4826117039526692131
+    second: RWindow4|L_sky_008.Target|Take 001|BaseLayer
+  - first:
+      74: 2866163208817214198
+    second: RWindow4|L_sky_008|Take 001|BaseLayer
+  - first:
+      74: 1619033369541557993
+    second: RWindow4|L_sky_009.Target|Take 001|BaseLayer
+  - first:
+      74: -7413064806780711026
+    second: RWindow4|L_sky_009|Take 001|BaseLayer
+  - first:
+      74: 2245677793737918597
+    second: RWindow4|L_sky_010.Target|Take 001|BaseLayer
+  - first:
+      74: 7554269022655342439
+    second: RWindow4|L_sky_010|Take 001|BaseLayer
+  - first:
+      74: -8836113098941481095
+    second: RWindow4|L_sky_011.Target|Take 001|BaseLayer
+  - first:
+      74: 6711336070351204963
+    second: RWindow4|L_sky_011|Take 001|BaseLayer
+  - first:
+      74: 6722885756753685022
+    second: RWindow4|L_sky_012.Target|Take 001|BaseLayer
+  - first:
+      74: 2480294367358944957
+    second: RWindow4|L_sky_012|Take 001|BaseLayer
+  - first:
+      74: 4745971864311416725
+    second: RWindow4|L_sky_013.Target|Take 001|BaseLayer
+  - first:
+      74: 329649617678588732
+    second: RWindow4|L_sky_013|Take 001|BaseLayer
+  - first:
+      74: -5623890593341431836
+    second: RWindow4|L_sky_014.Target|Take 001|BaseLayer
+  - first:
+      74: 2979275032012218561
+    second: RWindow4|L_sky_014|Take 001|BaseLayer
+  - first:
+      74: -8372084039841725677
+    second: RWindow4|L_sky_015.Target|Take 001|BaseLayer
+  - first:
+      74: -2305542368220205676
+    second: RWindow4|L_sky_015|Take 001|BaseLayer
+  - first:
+      74: 5991823247301245831
+    second: RWindow4|L_sky_016.Target|Take 001|BaseLayer
+  - first:
+      74: -6215147865008589106
+    second: RWindow4|L_sky_016|Take 001|BaseLayer
+  - first:
+      74: -5936661512687628751
+    second: RWindow4|L_sky_017.Target|Take 001|BaseLayer
+  - first:
+      74: 7509485139465918687
+    second: RWindow4|L_sky_017|Take 001|BaseLayer
+  - first:
+      74: -5195355138064256433
+    second: RWindow4|L_sky_018.Target|Take 001|BaseLayer
+  - first:
+      74: -6709495706793790814
+    second: RWindow4|L_sky_018|Take 001|BaseLayer
+  - first:
+      74: 2495468503232126210
+    second: RWindow4|L_sky_019.Target|Take 001|BaseLayer
+  - first:
+      74: -2579755551137928030
+    second: RWindow4|L_sky_019|Take 001|BaseLayer
+  - first:
+      74: -7691100294471796974
+    second: RWindow4|L_sky_020.Target|Take 001|BaseLayer
+  - first:
+      74: -6264015153344424595
+    second: RWindow4|L_sky_020|Take 001|BaseLayer
+  - first:
+      74: -3816205604496054538
+    second: RWindow4|L_sky_021.Target|Take 001|BaseLayer
+  - first:
+      74: 9220015996723280848
+    second: RWindow4|L_sky_021|Take 001|BaseLayer
+  - first:
+      74: 5729663337923455333
+    second: RWindow4|L_sky_022.Target|Take 001|BaseLayer
+  - first:
+      74: 6348846532802337576
+    second: RWindow4|L_sky_022|Take 001|BaseLayer
+  - first:
+      74: -7908793123296747794
+    second: RWindow4|L_sky_023.Target|Take 001|BaseLayer
+  - first:
+      74: -6888863315362834729
+    second: RWindow4|L_sky_023|Take 001|BaseLayer
+  - first:
+      74: 7798706793218838248
+    second: RWindow4|L_sky_024.Target|Take 001|BaseLayer
+  - first:
+      74: -5728182009936339170
+    second: RWindow4|L_sky_024|Take 001|BaseLayer
+  - first:
+      74: 7580580995550123247
+    second: RWindow4|L_SUN.Target|Take 001|BaseLayer
+  - first:
+      74: -60782987421153520
+    second: RWindow4|L_SUN|Take 001|BaseLayer
+  - first:
+      74: -6644552735546573408
+    second: RWindow4|Object003|Take 001|BaseLayer
+  - first:
+      74: 9025619640704096399
+    second: RWindow4|Object004|Take 001|BaseLayer
+  - first:
+      74: 7377473402678173236
+    second: RWindow4|Object005|Take 001|BaseLayer
+  - first:
+      74: -9135041914313392325
+    second: RWindow4|Object006|Take 001|BaseLayer
+  - first:
+      74: 8027897291371056924
+    second: RWindow4|Object007|Take 001|BaseLayer
+  - first:
+      74: 8439568274069496378
+    second: RWindow4|Object008|Take 001|BaseLayer
+  - first:
+      74: -7226545050707997225
+    second: RWindow4|Object009|Take 001|BaseLayer
+  - first:
+      74: 8195395854361827712
+    second: RWindow4|Object010|Take 001|BaseLayer
+  - first:
+      74: 3548965092282467345
+    second: RWindow4|Object011|Take 001|BaseLayer
+  - first:
+      74: -3405096446164945462
+    second: RWindow4|Object012|Take 001|BaseLayer
+  - first:
+      74: -3566453172755443979
+    second: RWindow4|Object013|Take 001|BaseLayer
+  - first:
+      74: -5015528522636862425
+    second: RWindow4|Object015|Take 001|BaseLayer
+  - first:
+      74: 1250418698062274541
+    second: RWindow4|Object016|Take 001|BaseLayer
+  - first:
+      74: 5404541832482341747
+    second: RWindow4|Object017|Take 001|BaseLayer
+  - first:
+      74: -5998093335188311575
+    second: RWindow4|Object018|Take 001|BaseLayer
+  - first:
+      74: -6360619740732075961
+    second: RWindow4|Palet001|Take 001|BaseLayer
+  - first:
+      74: -4939837919716966406
+    second: RWindow4|Palet|Take 001|BaseLayer
+  - first:
+      74: -1543446627589895467
+    second: RWindow4|Parasol001|Take 001|BaseLayer
+  - first:
+      74: 570102825709858161
+    second: RWindow4|Parasol002|Take 001|BaseLayer
+  - first:
+      74: -8526217543204078849
+    second: RWindow4|Parasol003|Take 001|BaseLayer
+  - first:
+      74: -2255240366127697067
+    second: RWindow4|Parasol|Take 001|BaseLayer
+  - first:
+      74: -2060149181199509370
+    second: RWindow4|Plane008|Take 001|BaseLayer
+  - first:
+      74: 7035893334350207666
+    second: RWindow4|Plane008|Take 001|BaseLayer.001
+  - first:
+      74: 5397942533006974305
+    second: RWindow4|plants001|Take 001|BaseLayer
+  - first:
+      74: 7578294655724683539
+    second: RWindow4|plants002|Take 001|BaseLayer
+  - first:
+      74: -514990436903152751
+    second: RWindow4|plants007|Take 001|BaseLayer
+  - first:
+      74: 7022015549664904003
+    second: RWindow4|plants010|Take 001|BaseLayer
+  - first:
+      74: 2620090128786863095
+    second: RWindow4|plants011|Take 001|BaseLayer
+  - first:
+      74: -9215472720421931897
+    second: RWindow4|plants012|Take 001|BaseLayer
+  - first:
+      74: -4036618689382801821
+    second: RWindow4|plants013|Take 001|BaseLayer
+  - first:
+      74: 2660643361029166183
+    second: RWindow4|plants014|Take 001|BaseLayer
+  - first:
+      74: 1950437254644067114
+    second: RWindow4|plants015|Take 001|BaseLayer
+  - first:
+      74: 3024266640505547996
+    second: RWindow4|plants016|Take 001|BaseLayer
+  - first:
+      74: -2704403430648920636
+    second: RWindow4|plants017|Take 001|BaseLayer
+  - first:
+      74: 6669142673893501925
+    second: RWindow4|plants|Take 001|BaseLayer
+  - first:
+      74: -5473634256645346916
+    second: RWindow4|R_SUN|Take 001|BaseLayer
+  - first:
+      74: 1085172868093325168
+    second: RWindow4|Restaurant|Take 001|BaseLayer
+  - first:
+      74: 6109414286257954347
+    second: RWindow4|RWindow008|Take 001|BaseLayer
+  - first:
+      74: -5307249663481224307
+    second: RWindow4|RWindow009|Take 001|BaseLayer
+  - first:
+      74: 4912714190117834170
+    second: RWindow4|RWindow010|Take 001|BaseLayer
+  - first:
+      74: -3560547322887365473
+    second: RWindow4|RWindow011|Take 001|BaseLayer
+  - first:
+      74: -4024014014348604523
+    second: RWindow4|RWindow012|Take 001|BaseLayer
+  - first:
+      74: -7461154460204019972
+    second: RWindow4|RWindow013|Take 001|BaseLayer
+  - first:
+      74: 9022525172561102449
+    second: RWindow4|RWindow014|Take 001|BaseLayer
+  - first:
+      74: 7639621032173151447
+    second: RWindow4|RWindow1|Take 001|BaseLayer
+  - first:
+      74: 2293297072087319809
+    second: RWindow4|RWindow3|Take 001|BaseLayer
+  - first:
+      74: 819865445055415776
+    second: RWindow4|RWindow4|Take 001|BaseLayer
+  - first:
+      74: -1351840949853976560
+    second: RWindow4|RWindow6|Take 001|BaseLayer
+  - first:
+      74: 768315182291237029
+    second: RWindow4|Souvenirstore|Take 001|BaseLayer
+  - first:
+      74: 5686189102443770260
+    second: RWindow4|SWindow007|Take 001|BaseLayer
+  - first:
+      74: 5213537465541728519
+    second: RWindow4|SWindow008|Take 001|BaseLayer
+  - first:
+      74: -6451693532759630728
+    second: RWindow4|SWindow009|Take 001|BaseLayer
+  - first:
+      74: 1456110248138602397
+    second: RWindow4|SWindow012|Take 001|BaseLayer
+  - first:
+      74: 8908107133320145507
+    second: RWindow4|SWindow013|Take 001|BaseLayer
+  - first:
+      74: 5792288559136809029
+    second: RWindow4|SWindow014|Take 001|BaseLayer
+  - first:
+      74: -1128633302261694464
+    second: RWindow4|SWindow015|Take 001|BaseLayer
+  - first:
+      74: -5354527706886619601
+    second: RWindow4|SWindow2|Take 001|BaseLayer
+  - first:
+      74: -2048087109188796486
+    second: RWindow4|SWindow4|Take 001|BaseLayer
+  - first:
+      74: -8924621897171065197
+    second: RWindow4|SWindow5|Take 001|BaseLayer
+  - first:
+      74: -751599566635738018
+    second: RWindow4|SWindow6|Take 001|BaseLayer
+  - first:
+      74: -6207251779768819701
+    second: RWindow4|Tram|Take 001|BaseLayer
+  - first:
+      74: 6218376026936289725
+    second: Residential|Board_flowershop|Take 001|BaseLayer
+  - first:
+      74: 1574565333281027718
+    second: Residential|Board_resto|Take 001|BaseLayer
+  - first:
+      74: 416544774254512128
+    second: Residential|Camera_REQUIRED_BACK.Target|Take 001|BaseLayer
+  - first:
+      74: -6533625173322696467
+    second: Residential|Camera_REQUIRED_BACK|Take 001|BaseLayer
+  - first:
+      74: -3357731953569522531
+    second: Residential|Camera_REQUIRED_FRONT.Target|Take 001|BaseLayer
+  - first:
+      74: -3082935793742502530
+    second: Residential|Camera_REQUIRED_FRONT|Take 001|BaseLayer
+  - first:
+      74: -1077222347107754850
+    second: Residential|Chair/table003|Take 001|BaseLayer
+  - first:
+      74: 4328473126213685617
+    second: Residential|Chair/table004|Take 001|BaseLayer
+  - first:
+      74: -7810176669578127942
+    second: Residential|Chair/table005|Take 001|BaseLayer
+  - first:
+      74: -5300723767964704160
+    second: Residential|Chair/table006|Take 001|BaseLayer
+  - first:
+      74: -7606469270347952357
+    second: Residential|Chair/table007|Take 001|BaseLayer
+  - first:
+      74: -3255207003474450546
+    second: Residential|Chair/table008|Take 001|BaseLayer
+  - first:
+      74: -2479878505527835856
+    second: Residential|Chair/table|Take 001|BaseLayer
+  - first:
+      74: -8609507901573697519
+    second: Residential|chair001|Take 001|BaseLayer
+  - first:
+      74: -8005834473519635500
+    second: Residential|chair003|Take 001|BaseLayer
+  - first:
+      74: 2840294351485669667
+    second: Residential|chair004|Take 001|BaseLayer
+  - first:
+      74: 8550760601126974789
+    second: Residential|chair005|Take 001|BaseLayer
+  - first:
+      74: -776555079849005059
+    second: Residential|chair007|Take 001|BaseLayer
+  - first:
+      74: 2081994129860330301
+    second: Residential|chair008|Take 001|BaseLayer
+  - first:
+      74: -1103653677179112322
+    second: Residential|chair009|Take 001|BaseLayer
+  - first:
+      74: 7248462202095923213
+    second: Residential|chair010|Take 001|BaseLayer
+  - first:
+      74: 647226897117016924
+    second: Residential|chair011|Take 001|BaseLayer
+  - first:
+      74: -2481340769697835096
+    second: Residential|chair012|Take 001|BaseLayer
+  - first:
+      74: 4001198768168311450
+    second: Residential|chair013|Take 001|BaseLayer
+  - first:
+      74: -192068671728977496
+    second: Residential|chair014|Take 001|BaseLayer
+  - first:
+      74: -3102244698911176072
+    second: Residential|chair015|Take 001|BaseLayer
+  - first:
+      74: 570560872744997834
+    second: Residential|chair2|Take 001|BaseLayer
+  - first:
+      74: -4047091935976299316
+    second: Residential|chimney003|Take 001|BaseLayer
+  - first:
+      74: -5119800256957514598
+    second: Residential|chimney2|Take 001|BaseLayer
+  - first:
+      74: 5876967169663205521
+    second: Residential|Dumpster|Take 001|BaseLayer
+  - first:
+      74: -4182652732290835791
+    second: Residential|FWindow008|Take 001|BaseLayer
+  - first:
+      74: -3199578244868510365
+    second: Residential|FWindow008|Take 001|BaseLayer.001
+  - first:
+      74: -849764908085045310
+    second: Residential|FWindow009|Take 001|BaseLayer
+  - first:
+      74: -8041826688848259739
+    second: Residential|FWindow1|Take 001|BaseLayer
+  - first:
+      74: 1529146132491686230
+    second: Residential|FWindow3|Take 001|BaseLayer
+  - first:
+      74: -5557311658779290992
+    second: Residential|FWindow3|Take 001|BaseLayer.001
+  - first:
+      74: -3128067897581644535
+    second: Residential|Gieter001|Take 001|BaseLayer
+  - first:
+      74: 5560156709513596181
+    second: Residential|Gieter|Take 001|BaseLayer
+  - first:
+      74: -8454015254750888280
+    second: Residential|Ground|Take 001|BaseLayer
+  - first:
+      74: 8034535965283064359
+    second: Residential|House|Take 001|BaseLayer
+  - first:
+      74: -3598955036081228133
+    second: Residential|L_sky_001.Target|Take 001|BaseLayer
+  - first:
+      74: 8846374664172498486
+    second: Residential|L_sky_001|Take 001|BaseLayer
+  - first:
+      74: 2933352892815259693
+    second: Residential|L_sky_002.Target|Take 001|BaseLayer
+  - first:
+      74: -2197759196284804278
+    second: Residential|L_sky_002|Take 001|BaseLayer
+  - first:
+      74: 5681312911902004252
+    second: Residential|L_sky_003.Target|Take 001|BaseLayer
+  - first:
+      74: -2790312432406691594
+    second: Residential|L_sky_003|Take 001|BaseLayer
+  - first:
+      74: 1628441927217515693
+    second: Residential|L_sky_004.Target|Take 001|BaseLayer
+  - first:
+      74: -7474175060610168210
+    second: Residential|L_sky_004|Take 001|BaseLayer
+  - first:
+      74: 4964631881120788222
+    second: Residential|L_sky_005.Target|Take 001|BaseLayer
+  - first:
+      74: 1274791121714539546
+    second: Residential|L_sky_005|Take 001|BaseLayer
+  - first:
+      74: -7599948490828788846
+    second: Residential|L_sky_006.Target|Take 001|BaseLayer
+  - first:
+      74: 1646173591634473265
+    second: Residential|L_sky_006|Take 001|BaseLayer
+  - first:
+      74: -7429946098207155734
+    second: Residential|L_sky_007.Target|Take 001|BaseLayer
+  - first:
+      74: 8515542882973612377
+    second: Residential|L_sky_007|Take 001|BaseLayer
+  - first:
+      74: 2551960914253791067
+    second: Residential|L_sky_008.Target|Take 001|BaseLayer
+  - first:
+      74: -9201241203308577984
+    second: Residential|L_sky_008|Take 001|BaseLayer
+  - first:
+      74: -3331151249023690572
+    second: Residential|L_sky_009.Target|Take 001|BaseLayer
+  - first:
+      74: -6652276155833552041
+    second: Residential|L_sky_009|Take 001|BaseLayer
+  - first:
+      74: -9074806227588444405
+    second: Residential|L_sky_010.Target|Take 001|BaseLayer
+  - first:
+      74: 5912727242250752027
+    second: Residential|L_sky_010|Take 001|BaseLayer
+  - first:
+      74: -7536020990289236053
+    second: Residential|L_sky_011.Target|Take 001|BaseLayer
+  - first:
+      74: -6981509016057475515
+    second: Residential|L_sky_011|Take 001|BaseLayer
+  - first:
+      74: 6495273296637688356
+    second: Residential|L_sky_012.Target|Take 001|BaseLayer
+  - first:
+      74: 7361569397926058741
+    second: Residential|L_sky_012|Take 001|BaseLayer
+  - first:
+      74: 367243156150953805
+    second: Residential|L_sky_013.Target|Take 001|BaseLayer
+  - first:
+      74: 6376301385676458431
+    second: Residential|L_sky_013|Take 001|BaseLayer
+  - first:
+      74: -6855123542232166796
+    second: Residential|L_sky_014.Target|Take 001|BaseLayer
+  - first:
+      74: -7393576076143175049
+    second: Residential|L_sky_014|Take 001|BaseLayer
+  - first:
+      74: 8246059054810677461
+    second: Residential|L_sky_015.Target|Take 001|BaseLayer
+  - first:
+      74: 3259157127206800020
+    second: Residential|L_sky_015|Take 001|BaseLayer
+  - first:
+      74: -1317196372460398626
+    second: Residential|L_sky_016.Target|Take 001|BaseLayer
+  - first:
+      74: -3580394563697953008
+    second: Residential|L_sky_016|Take 001|BaseLayer
+  - first:
+      74: 4845561112637515814
+    second: Residential|L_sky_017.Target|Take 001|BaseLayer
+  - first:
+      74: -3916259478740356709
+    second: Residential|L_sky_017|Take 001|BaseLayer
+  - first:
+      74: 1352752317126638623
+    second: Residential|L_sky_018.Target|Take 001|BaseLayer
+  - first:
+      74: 6970844259659534850
+    second: Residential|L_sky_018|Take 001|BaseLayer
+  - first:
+      74: -4932604109091418686
+    second: Residential|L_sky_019.Target|Take 001|BaseLayer
+  - first:
+      74: 324230171187226911
+    second: Residential|L_sky_019|Take 001|BaseLayer
+  - first:
+      74: -1271906284162214605
+    second: Residential|L_sky_020.Target|Take 001|BaseLayer
+  - first:
+      74: 1190269503675931286
+    second: Residential|L_sky_020|Take 001|BaseLayer
+  - first:
+      74: 5260055754092730613
+    second: Residential|L_sky_021.Target|Take 001|BaseLayer
+  - first:
+      74: -809165993938869619
+    second: Residential|L_sky_021|Take 001|BaseLayer
+  - first:
+      74: -421981746249269817
+    second: Residential|L_sky_022.Target|Take 001|BaseLayer
+  - first:
+      74: 4540129788706967269
+    second: Residential|L_sky_022|Take 001|BaseLayer
+  - first:
+      74: 4184600672256374884
+    second: Residential|L_sky_023.Target|Take 001|BaseLayer
+  - first:
+      74: 781749761957763361
+    second: Residential|L_sky_023|Take 001|BaseLayer
+  - first:
+      74: 5077662197609429657
+    second: Residential|L_sky_024.Target|Take 001|BaseLayer
+  - first:
+      74: 6315693052420920670
+    second: Residential|L_sky_024|Take 001|BaseLayer
+  - first:
+      74: 3461632973811976308
+    second: Residential|L_SUN.Target|Take 001|BaseLayer
+  - first:
+      74: -3003764805592564524
+    second: Residential|L_SUN|Take 001|BaseLayer
+  - first:
+      74: -1249383876022806284
+    second: Residential|Object003|Take 001|BaseLayer
+  - first:
+      74: -537533169945411450
+    second: Residential|Object004|Take 001|BaseLayer
+  - first:
+      74: -6250982841287501124
+    second: Residential|Object005|Take 001|BaseLayer
+  - first:
+      74: 2625006897580474058
+    second: Residential|Object006|Take 001|BaseLayer
+  - first:
+      74: -5966202037043242385
+    second: Residential|Object007|Take 001|BaseLayer
+  - first:
+      74: -3333864559010284373
+    second: Residential|Object008|Take 001|BaseLayer
+  - first:
+      74: 3625983683804422394
+    second: Residential|Object009|Take 001|BaseLayer
+  - first:
+      74: -4727598108226231519
+    second: Residential|Object010|Take 001|BaseLayer
+  - first:
+      74: 5375728683940267399
+    second: Residential|Object011|Take 001|BaseLayer
+  - first:
+      74: 7478192146656762945
+    second: Residential|Object012|Take 001|BaseLayer
+  - first:
+      74: 824527696985176251
+    second: Residential|Object013|Take 001|BaseLayer
+  - first:
+      74: -7834260732381267631
+    second: Residential|Object015|Take 001|BaseLayer
+  - first:
+      74: 2289880637690797663
+    second: Residential|Object016|Take 001|BaseLayer
+  - first:
+      74: -3539359055824970425
+    second: Residential|Object017|Take 001|BaseLayer
+  - first:
+      74: 5889242180942121793
+    second: Residential|Object018|Take 001|BaseLayer
+  - first:
+      74: 4546254501519935893
+    second: Residential|Palet001|Take 001|BaseLayer
+  - first:
+      74: -7160753851368191931
+    second: Residential|Palet|Take 001|BaseLayer
+  - first:
+      74: 5675810667947847699
+    second: Residential|Parasol001|Take 001|BaseLayer
+  - first:
+      74: 848575299874477425
+    second: Residential|Parasol002|Take 001|BaseLayer
+  - first:
+      74: 8146261120132873858
+    second: Residential|Parasol003|Take 001|BaseLayer
+  - first:
+      74: -1258938784340677255
+    second: Residential|Parasol|Take 001|BaseLayer
+  - first:
+      74: 6786826691263079688
+    second: Residential|Plane008|Take 001|BaseLayer
+  - first:
+      74: 8160661819132272261
+    second: Residential|Plane008|Take 001|BaseLayer.001
+  - first:
+      74: -4826700401058604359
+    second: Residential|plants001|Take 001|BaseLayer
+  - first:
+      74: -8502756849888894773
+    second: Residential|plants002|Take 001|BaseLayer
+  - first:
+      74: 1605547057159840400
+    second: Residential|plants007|Take 001|BaseLayer
+  - first:
+      74: 2878945067933971713
+    second: Residential|plants010|Take 001|BaseLayer
+  - first:
+      74: -2875619044374073653
+    second: Residential|plants011|Take 001|BaseLayer
+  - first:
+      74: -6731549581806379713
+    second: Residential|plants012|Take 001|BaseLayer
+  - first:
+      74: 8754883675988509248
+    second: Residential|plants013|Take 001|BaseLayer
+  - first:
+      74: 1579230652943441951
+    second: Residential|plants014|Take 001|BaseLayer
+  - first:
+      74: -5230435669306337282
+    second: Residential|plants015|Take 001|BaseLayer
+  - first:
+      74: -8179260421754336076
+    second: Residential|plants016|Take 001|BaseLayer
+  - first:
+      74: -6256744160882091683
+    second: Residential|plants017|Take 001|BaseLayer
+  - first:
+      74: -5002395909820435658
+    second: Residential|plants|Take 001|BaseLayer
+  - first:
+      74: 856234091505570377
+    second: Residential|R_SUN|Take 001|BaseLayer
+  - first:
+      74: 7435329595333850940
+    second: Residential|Restaurant|Take 001|BaseLayer
+  - first:
+      74: -393927941451523809
+    second: Residential|RWindow008|Take 001|BaseLayer
+  - first:
+      74: 1925521082160167019
+    second: Residential|RWindow009|Take 001|BaseLayer
+  - first:
+      74: 1025700172805452787
+    second: Residential|RWindow010|Take 001|BaseLayer
+  - first:
+      74: -8245637008430713714
+    second: Residential|RWindow011|Take 001|BaseLayer
+  - first:
+      74: 8529947287882843137
+    second: Residential|RWindow012|Take 001|BaseLayer
+  - first:
+      74: -2913817966872591318
+    second: Residential|RWindow013|Take 001|BaseLayer
+  - first:
+      74: 8012522839115948733
+    second: Residential|RWindow014|Take 001|BaseLayer
+  - first:
+      74: -8151504203975166763
+    second: Residential|RWindow1|Take 001|BaseLayer
+  - first:
+      74: -8490194150866482424
+    second: Residential|RWindow3|Take 001|BaseLayer
+  - first:
+      74: 7576642803669748055
+    second: Residential|RWindow4|Take 001|BaseLayer
+  - first:
+      74: -7862635999015206182
+    second: Residential|RWindow6|Take 001|BaseLayer
+  - first:
+      74: -8505668376257176264
+    second: Residential|Souvenirstore|Take 001|BaseLayer
+  - first:
+      74: -675347029752846378
+    second: Residential|SWindow007|Take 001|BaseLayer
+  - first:
+      74: 5816056859562799726
+    second: Residential|SWindow008|Take 001|BaseLayer
+  - first:
+      74: 3757299180876083335
+    second: Residential|SWindow009|Take 001|BaseLayer
+  - first:
+      74: 8988506097853262106
+    second: Residential|SWindow012|Take 001|BaseLayer
+  - first:
+      74: -612723638455315034
+    second: Residential|SWindow013|Take 001|BaseLayer
+  - first:
+      74: -4645075179431736703
+    second: Residential|SWindow014|Take 001|BaseLayer
+  - first:
+      74: -5068992771462349678
+    second: Residential|SWindow015|Take 001|BaseLayer
+  - first:
+      74: 7705611462660726650
+    second: Residential|SWindow2|Take 001|BaseLayer
+  - first:
+      74: -6060483543156660558
+    second: Residential|SWindow4|Take 001|BaseLayer
+  - first:
+      74: 6919599015361634701
+    second: Residential|SWindow5|Take 001|BaseLayer
+  - first:
+      74: -6444908461578799529
+    second: Residential|SWindow6|Take 001|BaseLayer
+  - first:
+      74: -6611583663116101877
+    second: Residential|Tram|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Decals_material
+    second: {fileID: 2100000, guid: e426c540c0b0840baa393b99f069d2fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Restaurant_Firstfloor
+    second: {fileID: 2100000, guid: c0063ae7c236a4d88954f0be4a598c56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Restaurant_Groundfloor
+    second: {fileID: 2100000, guid: b5005363953f44a7287ef815695b8d22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Restaurant_Roof
+    second: {fileID: 2100000, guid: b92c16d5f36f742a28a9d9892b11b19f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Restaurant_Secondfloor
+    second: {fileID: 2100000, guid: f33101d868a074666b0eb5f8f488bc12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Restaurant_Trim
+    second: {fileID: 2100000, guid: eef8540a88aed4fc9bf7693b3b888a17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Restaurant_Unique
+    second: {fileID: 2100000, guid: 5d236ef83b37a4f37b54ae3e5a3c75d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SouvenirShop_Firstfloor
+    second: {fileID: 2100000, guid: 4d022fd11d82e48f8bfee5c6132c4e33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SouvenirShop_Groundlevel
+    second: {fileID: 2100000, guid: 3acd51a5966794427a0b43df7b320d3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SouvenirShop_Roof
+    second: {fileID: 2100000, guid: 5e212616e1f6c4364ae44c69e11226fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SouvenirShop_Secondfloor
+    second: {fileID: 2100000, guid: 4e0bbb92b81144fcbb1feae32cf65211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SouvenirShop_Trim
+    second: {fileID: 2100000, guid: 01e2b306da12a4d9d9b1c6e823d6e711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SouvenirShop_Unique
+    second: {fileID: 2100000, guid: cfd3b9eb8b831496cbf4dacd2326894c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YOUR MATERIAL
+    second: {fileID: 2100000, guid: b4ebf58f0ffd64490953897dc53dcaa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YOUR MATERIAL.001
+    second: {fileID: 2100000, guid: 076a272ad498a423899de19b3ce7fd05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fruitshop_firstfloor
+    second: {fileID: 2100000, guid: c332e431a73df4eca9f9daaf523c8fb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fruitshop_firstfloorwalls
+    second: {fileID: 2100000, guid: 864f747e54b474abdbd6fd4c89c6751b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fruitshop_groundfloor
+    second: {fileID: 2100000, guid: e9514262693fa4c34ae272ff6854c33e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fruitshop_opacity
+    second: {fileID: 2100000, guid: 673739cd2a37e43dd88247a4766363c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fruitshop_roof
+    second: {fileID: 2100000, guid: 004e32d6527d8444592a9a27535f9031, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fruitshop_secondfloor
+    second: {fileID: 2100000, guid: acd8e5c8afffc4eba8a4b5bbc8daa556, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fruitshop_specialcolor
+    second: {fileID: 2100000, guid: f944ee534f76d4edf88b7b7a044a6993, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fruitshop_trim
+    second: {fileID: 2100000, guid: 4100b081d3f59460c894026a601d7932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fruitshop_unique
+    second: {fileID: 2100000, guid: 1d13389ef629b426fbab001f034c0f37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material2
+    second: {fileID: 2100000, guid: 4bcf9f5c2a850432d9d05969e6284f90, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
