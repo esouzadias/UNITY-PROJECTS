@@ -10,6 +10,7 @@ namespace HFPS.Systems{
         public MeshCollider collider;
         public Transform sittingPos;
         public Transform lookPosition;
+        Vector3 targetLookPosition;
         public bool goingToSit = false;
         public bool sitted = false;
         public bool atTheSpot = false;
@@ -22,8 +23,9 @@ namespace HFPS.Systems{
             AIRB = GameObject.FindGameObjectWithTag("NPC").GetComponent<AIRoutineBehaviour>();   
             npc = GameObject.FindGameObjectWithTag("NPC");
             sittingPos = GameObject.Find("SittingPos").GetComponent<Transform>();
-            lookPos = lookPosition.position - transform.position;
-            lookPos.y = 0;
+            lookPos = lookPosition.position - npc.transform.position;
+            targetLookPosition = new Vector3(lookPosition.position.x, npc.transform.position.y, lookPosition.position.z);
+            lookPos.y = 90f;
             rotation = Quaternion.LookRotation(lookPos);
         }
 
@@ -32,11 +34,12 @@ namespace HFPS.Systems{
         {
             if(npc.GetComponent<Animator>().GetCurrentAnimatorStateInfo(0).IsName("Stand To Sit")){
                 sitted = true;
+                /* AIRB.StartCoroutine(); */
             }
 
-            if(atTheSpot && !sitted) {
-                npc.transform.position = sittingPos.position;
+            if(atTheSpot) {
                 npc.transform.rotation = Quaternion.Slerp(transform.rotation, rotation, Time.deltaTime);
+                npc.transform.LookAt(targetLookPosition);
             }
         }
     }
